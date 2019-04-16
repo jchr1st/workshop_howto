@@ -10,8 +10,8 @@
 
 .. toctree::
   :maxdepth: 2
-  :caption: Stage HPOC
-  :name: _stage_hpoc
+  :caption: Stage Environment
+  :name: _stage_environment
   :hidden:
 
   stage_environment/stage_environment
@@ -30,6 +30,12 @@
 Getting Started
 ---------------
 
+Bootcamp and Workshop Slack Channels
+++++++++++++++++++++++++++++++++++++
+
+#technology-bootcamps
+
+#hands-on-workshops
 
 
 How to Do a Bootcamp
