@@ -37,8 +37,6 @@ Now that we have our HPOC / MKT cluster information, lets stage the Environment.
 
   curl --remote-name --location https://raw.githubusercontent.com/nutanixworkshops/stageworkshop/master/bootstrap.sh && sh ${_##*/}
 
-  nutanix@NTNX-15SM15050069-A-CVM:10.42.55.29:~$ curl --remote-name --location https://raw.githubusercontent.com/nutanixworkshops/stageworkshop/master/bootstrap.sh && sh ${_##*/}
-
 #. Next you will be prompted to enter the Clusters **Admin User**, **Admin Password**, and **Admin Email**. The **Admin User** and **Admin Password** map to the **Prism UI Credentials** in the email you received, and the **Admin Email** is your email address.
 
 .. code-block:: bash
@@ -80,8 +78,6 @@ Now that we have our HPOC / MKT cluster information, lets stage the Environment.
 
   tail -f bootcamp.log
 
-  nutanix@NTNX-15SM15050069-A-CVM:10.42.55.29:~$ tail -f bootcamp.log
-
 #. You will see it update and install several things
 
 - sshpass & jq
@@ -89,27 +85,46 @@ Now that we have our HPOC / MKT cluster information, lets stage the Environment.
 - Role Mapping
 - Configure VM Networks & Storage Container
 - Download and Install Prism Central (this takes roughly 17 minutes)
-
-
+- Register Prism Element to Prism Central
+- Download and Install Files
 
 #. When you see the following at the end of the *bootcamp.log* file, you can ctrl-c to kill the tail.
 
 .. code-block:: bash
 
-
+  |main|Remote asynchroneous PC Image import script... EMAIL=nathan.cox@nutanix.com PC_HOST=10.42.55.39 PE_HOST=10.42.55.37 PE_PASSWORD=techX2019! PC_LAUNCH=bootcamp.sh PC_VERSION=5.10.2 nohup bash /home/nutanix/bootcamp.sh IMAGES
 
 #. Now ssh to the Prism Central VM so you can tail the *bootcamp.log* file there and follow along.
 
+.. code-block:: bash
+
   ssh nutanix@10.42.55.39
+
+#. The password with be nutanix/4u since this is a default install of Prism Central.
+
+#. Now tail the *bootcamp.log* file on the Prism Central VM.
+
+.. code-block:: bash
 
   tail -f bootcamp.logs
 
 #. You will see it update and enable several things
 
 - sshpass & jq
+- SSP Authentication
 - Enable Calm
 - Enable Karbon
-- LCM Scan and Updates
+- LCM Inventory and Upgrades
 - Enable Flow
 - Create Project
-- Upload Images needed for Bootcamps or Workshops
+- Upload Images needed for Bootcamps or Workshops (These will continue to run in the background)
+
+#. When you see the following at the end of the *bootcamp.log* file, you can ctrl-c to kill the tail.
+
+.. code-block:: bash
+
+  |finish|/home/nutanix/bootcamp.sh ran for 2556 seconds._____________________
+
+#. You can ctrl-c to kill the tail.
+
+#. Now you can move to your browser and verify Prism Element and Prism Central. Remember, Images will continue to upload in the background.

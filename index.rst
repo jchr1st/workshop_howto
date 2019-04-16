@@ -32,8 +32,8 @@ Getting Started
 
 
 
-How to Do a Calm Bootcamp
-+++++++++++++++++++++++++
+How to Do a Bootcamp
+++++++++++++++++++++
 
 Planning
 .........
