@@ -41,7 +41,7 @@ Day of the Bootcamp
 
 - Arrive early, survey the site, and touch base with the onsite facilities contact.
 - Send link to the Bootcamp, and any updates, to the e-mail attendee list.
-- Have them register for the *nutanix.handsonworkshops.com* site if this is their time attending a Bootcamp or Workshop.
+- Have them register for the *nutanix.handsonworkshops.com* site if this is their first time attending a Bootcamp or Workshop.
 - If they have attended a Bootcamp or Workshop before, simply have them login with the user/password they used prior.
 - Project WiFi and Agenda info
 
