@@ -30,7 +30,7 @@ Planning a Bootcamp
 
 Work with your local Field Marketing Manager (FMM) to make a Bootcamp event landing and registration page. FMMs also help with identifying event locations, giveaway swag, and pipeline tracking.
 
-- Work with your stakeholders (Acctount Manager/Channel Partner/Prospect/Customer) to plan the Bootcamp date and agenda.
+- Work with your stakeholders (Account Manager/Channel Partner/Prospect/Customer) to plan the Bootcamp date and agenda.
 - The account team(s) should drive attendees to register.
 - Supporting materials are on GDrive in the `Technology Bootcamp <https://drive.google.com/drive/folders/0B_IfSpggJeFVfjdrVUxkZ25tQVRINHFVMkl4TFpWMG1GUUNhOVhaWnJOZ1gtSkJfa2QzSGc>`_ folder.
 - FMMs have access to an additional pool of Marketing clusters outside of the normal HPOC.
