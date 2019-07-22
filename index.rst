@@ -32,7 +32,7 @@ Work with your local Field Marketing Manager (FMM) to make a Bootcamp event land
 
 - Work with your stakeholders (Account Manager/Channel Partner/Prospect/Customer) to plan the Bootcamp date and agenda.
 - The account team(s) should drive attendees to register.
-- Supporting materials are on GDrive in the `Technology Bootcamp <https://drive.google.com/drive/folders/0B_IfSpggJeFVfjdrVUxkZ25tQVRINHFVMkl4TFpWMG1GUUNhOVhaWnJOZ1gtSkJfa2QzSGc>`_ folder.
+- Supporting materials are on GDrive in the `Technology Bootcamp <https://ntnx.how/PresentationDecks>`_ folder.
 - FMMs have access to an additional pool of Marketing clusters outside of the normal HPOC.
 - If Marketing clusters are not available, make a HPOC reservation(s) on https://rx.corp.nutanix.com/.
 

@@ -87,7 +87,11 @@ Running the Staging Scripts
 
    .. code-block:: bash
 
-    |main|Remote asynchroneous PC Image import script... EMAIL=nathan.cox@nutanix.com PC_HOST=10.42.55.39 PE_HOST=10.42.55.37 PE_PASSWORD=techX2019! PC_LAUNCH=bootcamp.sh PC_VERSION=5.10.2 nohup bash /home/nutanix/bootcamp.sh IMAGES
+
+   2019-07-22 17:11:50|23707|dependencies|Warning: assuming on PC or PE VM, removing jq...
+   lib.common.sh: line 138: pushd: bin: No such file or directory
+   lib.common.sh: line 140: popd: directory stack empty
+
 
 #. Now ssh to the Prism Central VM (10.XX.YY.39) so you can tail the *bootcamp.log* file there and follow along.
 
@@ -101,7 +105,7 @@ Running the Staging Scripts
 
    .. code-block:: bash
 
-    tail -f bootcamp.logs
+    tail -f bootcamp.log
 
 #. You will see it update and enable several things:
 
