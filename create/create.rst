@@ -15,6 +15,9 @@ There are currently two Template offerings with more planned in the future:
 
 - **Nutanix Technology Bootcamp** - A customer facing introduction to Nutanix, HCI, and Prism Element
 - **Nutanix Essentials Bootcamp** - A customer facing introduction to Prism Central, Prism Pro, Files, Calm, and Flow.
+- **Nutanix Era Bootcamp** - A customer facing bootcamp focusing on using Era with Postgres and MSSQL.
+
+- Here is the link to the Marketing presentations and printable workbooks - https://ntnx.how/PresentationDecks
 
 Creating A Workshop from a Template
 +++++++++++++++++++++++++++++++++++
