@@ -11,11 +11,17 @@ What Do We Need To Start
 
 To start you need to know which Workshop or Bootcamp you are running.
 
-There are currently two Template offerings with more planned in the future:
+Here is the list of Template offerings with more planned in the future:
 
-- **Nutanix Technology Bootcamp** - A customer facing introduction to Nutanix, HCI, and Prism Element
-- **Nutanix Essentials Bootcamp** - A customer facing introduction to Prism Central, Prism Pro, Files, Calm, and Flow.
+- **Nutanix Technology Bootcamp** - A customer facing introduction to Nutanix Core Product (HCI, and Prism Element).
+- **Nutanix Essentials Bootcamp** - A customer facing introduction to Nutanix Essentials Products (Prism Central, Prism Pro, Files, Calm, and Flow).
 - **Nutanix Era Bootcamp** - A customer facing bootcamp focusing on using Era with Postgres and MSSQL.
+
+Add-On Labs:
+
+- **Veeam** - Using Veeam with Nutanix.
+- **Hycu** - Using Hycu with Nutanix.
+- **Peer** - Using Peer with Nutanix Files.
 
 - Here is the link to the Marketing presentations and printable workbooks - https://ntnx.how/PresentationDecks
 
