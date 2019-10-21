@@ -55,12 +55,13 @@ Running the Staging Scripts
 
    .. code-block:: bash
 
-    1) Bootcamp (AOS 5.10+/AHV PC 5.10+) = Current (AutoDC2)
-    2) Citrix Desktop on AHV Workshop (AOS 5.10+/AHV PC 5.10+) = Development
-    3) Tech Summit 2019 (AOS 5.10+/AHV PC 5.10+) = Development
-    4) Change Cluster Input File
-    5) Validate Staged Clusters
-    6) Quit
+    1) Bootcamp Staging (AOS 5.11+/AHV PC 5.11+) = Current
+    2) Previous Bootcamp Staging (AOS 5.10+/AHV PC 5.10+) = Stable
+    3) In Development Bootcamp Staging (AOS 5.11+/AHV PC 5.11.1) = Development
+    4) Tech Summit 2019 (AOS 5.10+/AHV PC 5.10+) = Stable
+    5) Change Cluster Input File
+    6) Validate Staged Clusters
+    7) Quit
     Select an option: 1
 
     Are you sure you want to stage Bootcamp (AOS 5.10+/AHV PC 5.10+) = Current (AutoDC2) to the cluster(s) provided?
@@ -87,10 +88,10 @@ Running the Staging Scripts
 
    .. code-block:: bash
 
-
-   2019-07-22 17:11:50|23707|dependencies|Warning: assuming on PC or PE VM, removing jq...
-   lib.common.sh: line 138: pushd: bin: No such file or directory
-   lib.common.sh: line 140: popd: directory stack empty
+  2019-10-21 20:56:08|17245|ntnx_download|Success! Delete file_analytics sources to free CVM space...
+  2019-10-21 20:56:39|17245|dependencies|Warning: assuming on PC or PE VM, removing jq...
+  lib.common.sh: line 138: pushd: bin: No such file or directory
+  lib.common.sh: line 140: popd: directory stack empty
 
 
 #. Now ssh to the Prism Central VM (10.XX.YY.39) so you can tail the *bootcamp.log* file there and follow along.
@@ -122,7 +123,7 @@ Running the Staging Scripts
 
    .. code-block:: bash
 
-    |finish|/home/nutanix/bootcamp.sh ran for 2556 seconds._____________________
+   |finish|/home/nutanix/bootcamp.sh ran for 2556 seconds._____________________
 
 #. You can Ctrl+C to kill the tail.
 

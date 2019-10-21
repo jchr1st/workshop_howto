@@ -15,6 +15,11 @@ Here is the list of Template offerings with more planned in the future:
 
 - **Nutanix Technology Bootcamp** - A customer facing introduction to Nutanix Core Product (HCI, and Prism Element).
 - **Nutanix Essentials Bootcamp** - A customer facing introduction to Nutanix Essentials Products (Prism Central, Prism Pro, Files, Calm, and Flow).
+- **Nutanix Enterprise Bootcamp** - A customer facing introduction to Nutanix Enterprise Products (Era, Karbon, Objects, & Cloud Native App).
+
+- **Introduction to Nutanix Private Cloud** - A customer facing introduction to Nutanix Private Cloud (Nutanix 101, & Intro to Calm).
+
+- **Nutanix Calm Bootcamp** - A customer facing bootcamp focusing on using Calm (3-tier Linux App, 2-tier Windows App, & Day 2 Activities).
 - **Nutanix Era Bootcamp** - A customer facing bootcamp focusing on using Era with Postgres and MSSQL.
 
 Add-On Labs:
