@@ -88,10 +88,10 @@ Running the Staging Scripts
 
    .. code-block:: bash
 
-  2019-10-21 20:56:08|17245|ntnx_download|Success! Delete file_analytics sources to free CVM space...
-  2019-10-21 20:56:39|17245|dependencies|Warning: assuming on PC or PE VM, removing jq...
-  lib.common.sh: line 138: pushd: bin: No such file or directory
-  lib.common.sh: line 140: popd: directory stack empty
+   2019-10-21 20:56:08|17245|ntnx_download|Success! Delete file_analytics sources to free CVM space...
+   2019-10-21 20:56:39|17245|dependencies|Warning: assuming on PC or PE VM, removing jq...
+   lib.common.sh: line 138: pushd: bin: No such file or directory
+   lib.common.sh: line 140: popd: directory stack empty
 
 
 #. Now ssh to the Prism Central VM (10.XX.YY.39) so you can tail the *bootcamp.log* file there and follow along.
@@ -123,7 +123,7 @@ Running the Staging Scripts
 
    .. code-block:: bash
 
-   |finish|/home/nutanix/bootcamp.sh ran for 2556 seconds._____________________
+    |finish|/home/nutanix/bootcamp.sh ran for 2556 seconds._____________________
 
 #. You can Ctrl+C to kill the tail.
 
