@@ -18,6 +18,8 @@ Nutanix Workshops HOWTO
 
 The purpose of this living document is to provide a complete reference for how to properly run a Nutanix Workshop or Bootcamp using RX, the Hosted POC environment, and the Nutanix Hands on Workshops platform.
 
+SE Wiki Page for Bootcamp Info: `SE Wiki Page Bootcamps <https://confluence.eng.nutanix.com:8443/display/SEW/Bootcamps>`_
+
 Workshop V. Bootcamp
 ++++++++++++++++++++
 
