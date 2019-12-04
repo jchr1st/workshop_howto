@@ -118,6 +118,17 @@ Running the Staging Scripts
 - Enable Flow
 - Create Project
 - Upload Images needed for Bootcamps or Workshops (These will continue to run in the background)
+    - ToolsVM.qcow2
+    - Linux_ToolsVM.qcow2
+    - CentOS7.qcow2
+    - Windows2016.qcow2
+    - Windows2016.iso
+    - Windows2012.qcow2
+    - Windows2012.iso
+    - Windows10-1709.qcow2
+    - Windows10-1709.iso
+    - Nutanix-VirtIO-1.1.3.iso
+    
 
 #. When you see the following at the end of the *bootcamp.log* file, you can Ctrl+C to kill the tail.
 
