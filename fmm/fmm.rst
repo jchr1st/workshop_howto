@@ -44,7 +44,7 @@ A cluster reserved for use during this boot camp should be reserved as follows b
 - Number of nodes: 4.
 - Leave custom password field blank (or enter a custom password if desired.
 
-..note::
+.. note::
   Warning: if entering a custom passwords note that all passwords get stored in clear text in a database so don't use any real passwords).
 
 - Click on "Submit Reservation"
