@@ -7,9 +7,9 @@ Field Marketing Manager Info
 The Nutanix Technology Bootcamp is a marketing event to be run in the field by Nutanix sales teams and partners. The purpose of the bootcamp is to give attendees a close-up view of some of the powerful web-scale capabilities of the Nutanix Enterprise Cloud Platform, and showcase how simple Nutanix is to configure and manage. The intended audience for these bootcamps are technical IT operators at prospect organizations who have had prior exposure to Nutanix but have not done a POC yet.
 
 The key messaging objectives:
-- Nutanix is simple. Everything is easy to do with Nutanix, from buying and deploying to managing and expanding resources.
-- Web-scale HCI is a fundamentally different approach to IT than traditional three-tier architectures, and it is better.
-- Nutanix AHV is enterprise-class virtualization built into the platform that is available and ready to use out of the box.
+  - Nutanix is simple. Everything is easy to do with Nutanix, from buying and deploying to managing and expanding resources.
+  - Web-scale HCI is a fundamentally different approach to IT than traditional three-tier architectures, and it is better.
+  - Nutanix AHV is enterprise-class virtualization built into the platform that is available and ready to use out of the box.
 
 Program Format
 +++++++++++++++
