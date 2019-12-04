@@ -66,7 +66,7 @@ Running the Staging Scripts
 
     Are you sure you want to stage Bootcamp (AOS 5.10+/AHV PC 5.10+) = Current (AutoDC2) to the cluster(s) provided?
     Your only 'undo' option is running Foundation on your cluster(s) again.
-   ( Y/N)y
+    ( Y/N)y
 
 #. To monitor the progress of the staging on **Prism Element**, tail the *bootcamp.log* file.
 
