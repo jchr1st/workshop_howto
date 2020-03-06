@@ -17,6 +17,34 @@ Refer to your automation@nutanix.com **Reservation Confirmation** e-mail, simila
 
 .. figure:: images/staging_01.png
 
+Bootcamp To Staging Scripts Pairing
++++++++++++++++++++++++++++++++++++
+
+With the latest release of Bootcamps, we have introduced *Bootcamp Specific Staging Options*. Please see the table below to make the correct choice.
+
+.. list-table::
+   :widths: 25 75
+   :header-rows: 1
+
+   * - Bootcamp
+     - Staging Option
+   * - **Core/Essentials/Enterprise Bootcamps**
+     - Previous Bootcamp Staging (AOS 5.11.x/AHV PC 5.11.2) = Stable
+   * - **AOS and AHV Bootcamp**
+     - Basic / API Bootcamp (AOS 5.11.x/AHV PC 5.11.2.1) = Current
+   * - **Enterprise Private Cloud Bootcamp**
+     - Private Cloud Bootcamp (AOS 5.11.x/AHV PC 5.11.2.1) = Current
+   * - **Databases with Era Bootcamp**
+     - Databases with Era Bootcamp (AOS 5.11.x/AHV PC 5.11.2.1) = Current
+   * - **Files Bootcamp**
+     - Files Bootcamp (AOS 5.11.x/AHV PC 5.11.2.1) = Current
+   * - **Calm Bootcamp**
+     - Calm Workshop (AOS 5.11.x/AHV PC 5.11.2.1) = Current
+   * - **Citrix on AHV Bootcamp**
+     - Citrix Bootcamp (AOS 5.11.x/AHV PC 5.11.2.1) = Current
+   * - **API Bootcamp**
+     - Basic / API Bootcamp (AOS 5.11.x/AHV PC 5.11.2.1) = Current
+
 Running the Staging Scripts
 +++++++++++++++++++++++++++
 
@@ -68,33 +96,30 @@ Running the Staging Scripts
     Your only 'undo' option is running Foundation on your cluster(s) again.
     ( Y/N)y
 
-#. To monitor the progress of the staging on **Prism Element**, tail the *bootcamp.log* file.
+#. To monitor the progress of the staging on **Prism Element**, tail the *xyz_bootcamp.log* file.
 
    .. code-block:: bash
 
-    tail -f bootcamp.log
+    tail -f *bootcamp.log
 
 #. You will see it update and install several things:
 
 - sshpass & jq
-- AutoDC2 (LDAP/Active Directory)
+- AutoAD
 - Role Mapping
 - Configure VM Networks & Storage Container
 - Download and Install Prism Central (this takes roughly 17 minutes)
 - Register Prism Element to Prism Central
-- Download and Install Files
 
-#. When you see the following at the end of the *bootcamp.log* file, you can Ctrl+C to kill the tail.
+
+#. When you see the following at the end of the *xyz_bootcamp.log* file, you can Ctrl+C to kill the tail.
 
    .. code-block:: bash
 
-    2019-10-21 20:56:08|17245|ntnx_download|Success! Delete file_analytics sources to free CVM space...
-    2019-10-21 20:56:39|17245|dependencies|Warning: assuming on PC or PE VM, removing jq...
-    lib.common.sh: line 138: pushd: bin: No such file or directory
-    lib.common.sh: line 140: popd: directory stack empty
+    |finish|./ts2020.sh ran for 5872 seconds._____________________
 
 
-#. Now ssh to the Prism Central VM (10.XX.YY.39) so you can tail the *bootcamp.log* file there and follow along.
+#. Now ssh to the Prism Central VM (10.XX.YY.39) so you can tail the *xyz_bootcamp.log* file there and follow along.
 
    .. code-block:: bash
 
@@ -102,11 +127,11 @@ Running the Staging Scripts
 
 #. The password with be nutanix/4u since this is a default install of Prism Central.
 
-#. Now tail the *bootcamp.log* file on the Prism Central VM.
+#. Now tail the *xyz_bootcamp.log* file on the Prism Central VM.
 
    .. code-block:: bash
 
-    tail -f bootcamp.log
+    tail -f *bootcamp.log
 
 #. You will see it update and enable several things:
 
@@ -118,19 +143,16 @@ Running the Staging Scripts
 - Enable Flow
 - Create Project
 - Upload Images needed for Bootcamps or Workshops (These will continue to run in the background)
-    - ToolsVM.qcow2
+    - WinToolsVM.qcow2
     - Linux_ToolsVM.qcow2
     - CentOS7.qcow2
     - Windows2016.qcow2
     - Windows2016.iso
-    - Windows2012.qcow2
-    - Windows2012.iso
-    - Windows10-1709.qcow2
-    - Windows10-1709.iso
-    - Nutanix-VirtIO-1.1.3.iso
-    
+    - Win10v1903.qcow2
+    - Nutanix-VirtIO-1.1.5.iso
 
-#. When you see the following at the end of the *bootcamp.log* file, you can Ctrl+C to kill the tail.
+
+#. When you see the following at the end of the *xyz_bootcamp.log* file, you can Ctrl+C to kill the tail.
 
    .. code-block:: bash
 
