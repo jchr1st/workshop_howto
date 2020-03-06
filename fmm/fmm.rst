@@ -26,7 +26,7 @@ As there is far more content than can typically be covered in the half-day forma
 
 The goal of these bootcamps is to move early opportunity stages forward. If customers leave a boot camp wanting to know more about the technology, it will be considered a success. Follow up meetings can include SE led deep dives, or POC activities.
 
-Reserving A Clusters
+Reserving A Cluster
 ++++++++++++++++++++
 
 When reserving a cluster for your Workshop or Bootcamp, ensure you are creating the reservation using the correct Hypervisor and AOS version.
