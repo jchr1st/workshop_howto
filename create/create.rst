@@ -13,20 +13,29 @@ To start you need to know which Workshop or Bootcamp you are running.
 
 Here is the list of Template offerings with more planned in the future:
 
+**New Releases**
+
+- **Nutanix AOS and AHV Bootcamp** - A customer facing introduction to Nutanix Core Product (HCI, and Prism Element).
+- **Nutanix Enterprise Private Cloud Bootcamp** - A Day in the life with AOS, Files, Flow, Calm, and Prism Ops.
+- **Nutanix Databases with Era Bootcamp** - Using Era to deploy and manage MS Sql and Postgres DBs.
+- **Nutanix Files Bootcamp** - Using Files and File Analytics, with a *Bonus* lab using Peer Software.
+- **Nutanix Citrix on AHV Bootcamp** - Using Citrix with Nutanix AHV, and also leveraging Files, Flow, and Prism Ops.
+- **Nutanix API Bootcamp** - Using Nutanix APIs for Cluster & VM management tasks.
+
+- **Nutanix Calm Bootcamp** - A customer facing bootcamp focusing on using Calm (3-tier Linux App, 2-tier Windows App, & Day 2 Activities).
+
+**Archiving End of April 2020**
+
 - **Nutanix Technology Bootcamp** - A customer facing introduction to Nutanix Core Product (HCI, and Prism Element).
 - **Nutanix Essentials Bootcamp** - A customer facing introduction to Nutanix Essentials Products (Prism Central, Prism Pro, Files, Calm, and Flow).
 - **Nutanix Enterprise Bootcamp** - A customer facing introduction to Nutanix Enterprise Products (Era, Karbon, Objects, & Cloud Native App).
-
 - **Introduction to Nutanix Private Cloud** - A customer facing introduction to Nutanix Private Cloud (Nutanix 101, & Intro to Calm).
-
-- **Nutanix Calm Bootcamp** - A customer facing bootcamp focusing on using Calm (3-tier Linux App, 2-tier Windows App, & Day 2 Activities).
 - **Nutanix Era Bootcamp** - A customer facing bootcamp focusing on using Era with Postgres and MSSQL.
 
 Add-On Labs:
 
 - **Veeam** - Using Veeam with Nutanix.
 - **Hycu** - Using Hycu with Nutanix.
-- **Peer** - Using Peer with Nutanix Files.
 
 - Here is the link to the Marketing presentations and printable workbooks - https://ntnx.how/PresentationDecks
 

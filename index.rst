@@ -21,6 +21,10 @@ The purpose of this living document is to provide a complete reference for how t
 
 SE Wiki Page for Bootcamp Info: `SE Wiki Page Bootcamps <https://confluence.eng.nutanix.com:8443/display/SEW/Bootcamps>`_
 
+.. note::
+
+    Feedback and suggestions can be submitted to bootcamps@nutanix.com
+
 Workshop V. Bootcamp
 ++++++++++++++++++++
 
@@ -59,6 +63,6 @@ Have a question related to RX, HPOC (including initial cluster Foundation)?
 
 Come ask in `#rx-and-hpoc <slack://channel?id=C0JSE04TA&team=T0252CLM8>`_.
 
-Have a question related to Parallels VDI or Pulse VPN access?
+Have a question related to Frame, Parallels VDI, or Pulse VPN access?
 
 Come ask in `#x-labs <slack://channel?id=CF6GRQ4TU&team=T0252CLM8>`_.

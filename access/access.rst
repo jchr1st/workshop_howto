@@ -35,6 +35,16 @@ Add a connection:
 
 Connect using the provided credentials.
 
+Frame VDI
+---------
+
+Users can also access the HPOC through a Frame on AHV session.
+
+Login to: https://frame.nutanix.com/x/labs
+
+**Nutanix Employees** - Use your **NUTANIXDC** credentials
+**Non-Employees** - Use **Lab Access User** Credentials
+
 Parallels VDI
 -------------
 
