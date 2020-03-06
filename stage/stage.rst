@@ -23,7 +23,7 @@ Bootcamp To Staging Scripts Pairing
 With the latest release of Bootcamps, we have introduced *Bootcamp Specific Staging Options*. Please see the table below to make the correct choice.
 
 .. list-table::
-   :widths: 25 75
+   :widths: 40 60
    :header-rows: 1
 
    * - Bootcamp
@@ -83,16 +83,22 @@ Running the Staging Scripts
 
    .. code-block:: bash
 
-    1) Bootcamp Staging (AOS 5.11+/AHV PC 5.11+) = Current
-    2) Previous Bootcamp Staging (AOS 5.10+/AHV PC 5.10+) = Stable
-    3) In Development Bootcamp Staging (AOS 5.11+/AHV PC 5.11.1) = Development
-    4) Tech Summit 2019 (AOS 5.10+/AHV PC 5.10+) = Stable
-    5) Change Cluster Input File
-    6) Validate Staged Clusters
-    7) Quit
-    Select an option: 1
+    1) Bootcamp Staging (AOS 5.11+/AHV PC 5.11.2.1) = Current
+    2) SNC (1-Node) Bootcamp Staging (AOS 5.11+/AHV PC 5.11.2.1) = Current
+    3) Previous Bootcamp Staging (AOS 5.11.x/AHV PC 5.11.2) = Stable
+    4) Previous SNC (1-Node) Bootcamp Staging (AOS 5.11.x/AHV PC 5.11.2) = Stable
+    5) Basic / API Bootcamp (AOS 5.11.x/AHV PC 5.11.2.1) = Current
+    6) Private Cloud Bootcamp (AOS 5.11.x/AHV PC 5.11.2.1) = Current
+    7) Databases with Era Bootcamp (AOS 5.11.x/AHV PC 5.11.2.1) = Current
+    8) Files Bootcamp (AOS 5.11.x/AHV PC 5.11.2.1) = Current
+    9) Calm Workshop (AOS 5.11.x/AHV PC 5.11.2.1) = Current
+    10) Citrix Bootcamp (AOS 5.11.x/AHV PC 5.11.2.1) = Current
+    11) Change Cluster Input File
+    12) Validate Staged Clusters
+    13) Quit
+    Select an option: 5
 
-    Are you sure you want to stage Bootcamp (AOS 5.10+/AHV PC 5.10+) = Current (AutoDC2) to the cluster(s) provided?
+    Are you sure you want to stage Basic / API Bootcamp (AOS 5.11.x/AHV PC 5.11.2.1) = Current to the cluster(s) provided?
     Your only 'undo' option is running Foundation on your cluster(s) again.
     ( Y/N)y
 
