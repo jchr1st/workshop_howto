@@ -28,8 +28,6 @@ With the latest release of Bootcamps, we have introduced *Bootcamp Specific Stag
 
    * - Bootcamp
      - Staging Option
-   * - **Core/Essentials/Enterprise Bootcamps**
-     - Previous Bootcamp Staging (AOS 5.11.x/AHV PC 5.11.2) = Stable
    * - **AOS and AHV Bootcamp**
      - Basic / API Bootcamp (AOS 5.11.x/AHV PC 5.11.2.1) = Current
    * - **Enterprise Private Cloud Bootcamp**
@@ -44,6 +42,8 @@ With the latest release of Bootcamps, we have introduced *Bootcamp Specific Stag
      - Citrix Bootcamp (AOS 5.11.x/AHV PC 5.11.2.1) = Current
    * - **API Bootcamp**
      - Basic / API Bootcamp (AOS 5.11.x/AHV PC 5.11.2.1) = Current
+   * - **Core/Essentials/Enterprise Bootcamps (Archiving End of April)**
+     - Previous Bootcamp Staging (AOS 5.11.x/AHV PC 5.11.2) = Stable
 
 Running the Staging Scripts
 +++++++++++++++++++++++++++
