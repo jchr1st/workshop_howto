@@ -73,7 +73,7 @@ Running the Staging Scripts
         CONFIRM:              PHX-POC055 cluster's admin password?
 
           Note: @nutanix.com will be added if domain omitted.
-        REQUIRED: Email address for cluster admin? nathan.cox@nutanix.com
+        REQUIRED: Email address for cluster admin?  <INSERTYOUREMAILHERE>@nutanix.com
 
 #. Now we need to select the Option we want to Stage. You will see options for **Bootcamp**, **Citrix** (which is under development), and **Tech Summit**.
 
