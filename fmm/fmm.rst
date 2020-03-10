@@ -55,7 +55,7 @@ The SE leading the boot camp is responsible for verifying that the foundation su
 
 .. note::
 
-  Please Note: Do not Select **Prism Central** or any Images when creating your reservation. Images will be uploaded via the script covered in :ref:`stage_environment`.
+  **Please Note: Do not Select Prism Central or any Images when creating your reservation**. Images will be uploaded via the script covered in :ref:`stage_environment`.
 
   .. figure:: images/rx_cluster_reserve_info.png
 
