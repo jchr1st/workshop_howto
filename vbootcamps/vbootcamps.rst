@@ -19,7 +19,7 @@ This list of Bootcamps should provide the best user experience.
 - Databases with Era (Should have gone through Enterprise Cloud or AOS and AHV)
 - Files Bootcamp
 - Citrix on AHV (Up to 10-11ppl)
-- Frame on AHV *Comming Soon!* (Up to 10-11ppl)
+- Frame on AHV *Coming Soon!* (Up to 10-11ppl)
 
 Could use with Prospect or Customer Specific
 ............................................
@@ -40,9 +40,9 @@ SE Planning Tips
     - All supporting SEs should go through the bootcamp’s labs before the event so they know which labs are completed during the event.
     - Day before, walk through the PDF document on the clusters to ensure everything is working properly.
 - **Send personalized emails to attendees** - Send personalized emails to attendees to remind them of the bootcamp and to provide them login information
-    - Email 1 - Day before the event send out personalized emails to every attendee with their login information and the PDF copy of the bootcamp workbook (PDF copy of the workbooks available here) – **View Email Copy Below**
+    - Email 1 - Day before the event send out personalized emails to every attendee with their login information and the PDF copy of the bootcamp workbook (PDF copy of the workbooks available here) – **View Email Copy on Confluence**
         - It’s important to send out the connection info the day before and ensure that attendees can login so that any issues can be resolved before the bootcamp and not during.
-    - Email 2 - An hour prior to the start of the bootcamp send out one mass email to all attendees with cluster details – Admin login and password – You don’t want to send this earlier to ensure that the cluster is in the expected state – View Email Copy Below
+    - Email 2 - An hour prior to the start of the bootcamp send out one mass email to all attendees with cluster details – Admin login and password – You don’t want to send this earlier to ensure that the cluster is in the expected state – **View Email Copy on Confluence**
 
 FMM Planning Tips
 +++++++++++++++++
