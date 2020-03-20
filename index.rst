@@ -5,6 +5,7 @@
   :name: _howto
   :hidden:
 
+  vbootcamps/vbootcamps
   reserve/reserve
   create/create
   stage/stage
