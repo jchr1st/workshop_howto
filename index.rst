@@ -26,7 +26,7 @@ SE Wiki Page for Bootcamp Info: `SE Wiki Page Bootcamps <https://confluence.eng.
 
     Feedback and suggestions can be submitted to bootcamps@nutanix.com
 
-Workshop V. Bootcamp
+Workshop Vs. Bootcamp
 ++++++++++++++++++++
 
 **What's the difference?!**
