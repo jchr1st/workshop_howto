@@ -2,14 +2,29 @@
 
 .. toctree::
   :maxdepth: 2
-  :name: _howto
+  :caption: Virtual Bootcamps
+  :name: _vbootcamps
   :hidden:
 
   vbootcamps/vbootcamps
+
+.. toctree::
+  :maxdepth: 2
+  :caption: SE Getting Started
+  :name: _se
+  :hidden:
+
   reserve/reserve
   create/create
   stage/stage
   access/access
+
+.. toctree::
+  :maxdepth: 2
+  :caption: FMM Getting Started
+  :name: _fmm
+  :hidden:
+
   fmm/fmm
 
 .. _getting_started:
