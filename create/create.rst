@@ -6,41 +6,10 @@ Create Workshop From Template
 
 The Nutanix Hands on Workshops platform provides multiple Templates allowing you to create event specific Workshops or Bootcamps quickly and easily. Creating the event specific instance from a Template allows you to customize messaging and track granular statistics for your event.
 
-What Do We Need To Start
-++++++++++++++++++++++++
-
-To start you need to know which Workshop or Bootcamp you are running.
-
-Here is the list of Template offerings with more planned in the future:
-
-**New Releases**
-
-- **Nutanix AOS and AHV Bootcamp** - A customer facing introduction to Nutanix Core Product (HCI, and Prism Element).
-- **Nutanix Enterprise Private Cloud Bootcamp** - A Day in the life with AOS, Files, Flow, Calm, and Prism Ops.
-- **Nutanix Databases with Era Bootcamp** - Using Era to deploy and manage MS Sql and Postgres DBs.
-- **Nutanix Files Bootcamp** - Using Files and File Analytics, with a *Bonus* lab using Peer Software.
-- **Nutanix Citrix on AHV Bootcamp** - Using Citrix with Nutanix AHV, and also leveraging Files, Flow, and Prism Ops.
-- **Nutanix API Bootcamp** - Using Nutanix APIs for Cluster & VM management tasks.
-
-- **Nutanix Calm Bootcamp** - A customer facing bootcamp focusing on using Calm (3-tier Linux App, 2-tier Windows App, & Day 2 Activities).
-
-**Archiving End of April 2020**
-
-- **Nutanix Technology Bootcamp** - A customer facing introduction to Nutanix Core Product (HCI, and Prism Element).
-- **Nutanix Essentials Bootcamp** - A customer facing introduction to Nutanix Essentials Products (Prism Central, Prism Pro, Files, Calm, and Flow).
-- **Nutanix Enterprise Bootcamp** - A customer facing introduction to Nutanix Enterprise Products (Era, Karbon, Objects, & Cloud Native App).
-- **Introduction to Nutanix Private Cloud** - A customer facing introduction to Nutanix Private Cloud (Nutanix 101, & Intro to Calm).
-- **Nutanix Era Bootcamp** - A customer facing bootcamp focusing on using Era with Postgres and MSSQL.
-
-Add-On Labs:
-
-- **Veeam** - Using Veeam with Nutanix.
-- **Hycu** - Using Hycu with Nutanix.
-
-- Here is the link to the Marketing presentations and printable workbooks - https://ntnx.how/PresentationDecks
-
 Creating A Workshop from a Template
 +++++++++++++++++++++++++++++++++++
+
+To start you need to know which Workshop or Bootcamp you are running (*See First Page for List of Current Bootcamps*).
 
 #. In a browser, login to https://bootcamps.nutanix.handsonworkshops.com/profiles/login/ using OKTA.
 
@@ -65,9 +34,9 @@ Creating A Workshop from a Template
 #. Fill out the following fields:
 
    - **Choose a Template** - Select your desired Template
-   - **Name** - This is what will be displayed as the title of the Workshop (e.g. *Portland - May 2009 Nutanix Essentials Bootcamp*)
-   - **Description** - While optional, the description allows you to provide brief context about what will be covered during the Workshop/Bootcamp or other logistical details such as address and time.
-   - **Notes** - Optional
+   - **Name** - This is what will be displayed as the title of the Workshop (e.g. *Portland - May 2019 Nutanix Essentials Bootcamp*)
+   - **Description** - While optional, the description allows you to provide brief context about what will be covered during the Workshop/Bootcamp or other logistical details such as address and time. **Do Not Put Passwords Here**
+   - **Notes** - Optional **Do Not Put Passwords Here**
 
    .. figure:: images/create_bootcamp_04.png
 

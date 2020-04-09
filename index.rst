@@ -14,7 +14,7 @@
   :name: _se
   :hidden:
 
-  reserve/reserve
+  se_reserve/se_reserve
   create/create
   stage/stage
   access/access
@@ -25,7 +25,7 @@
   :name: _fmm
   :hidden:
 
-  fmm/fmm
+  fmm_reserve/fmm_reserve
 
 .. _getting_started:
 
@@ -33,9 +33,7 @@
 Nutanix Workshops HOWTO
 -----------------------
 
-The purpose of this living document is to provide a complete reference for how to properly run a Nutanix Workshop or Bootcamp using RX, the Hosted POC environment, and the Nutanix Hands on Workshops platform.
-
-SE Wiki Page for Bootcamp Info: `SE Wiki Page Bootcamps <https://confluence.eng.nutanix.com:8443/display/SEW/Bootcamps>`_
+The purpose of this living document is to provide a complete reference for SEs and Field Marketing on how to properly run a Nutanix Bootcamp (or Workshop) using RX, the Hosted POC environment, and the Nutanix Hands on Workshops platform.
 
 .. note::
 
@@ -46,34 +44,158 @@ Workshop Vs. Bootcamp
 
 **What's the difference?!**
 
-Generally, we use **Workshops** to refer to internal or partner facing hands on lab content. **Bootcamps** are customer facing, funded marketing events that can be used for lead generation and accelerating deals.
+Generally, we use **Workshops** to refer to internal or partner facing hands on lab content. **Bootcamps**, which this document will cover in-depth, are customer facing, funded marketing events that can be used for lead generation and accelerating deals.
 
-Planning a Bootcamp
-...................
+The purpose of a bootcamp is to give attendees a close-up view of some of the powerful web-scale capabilities of the Nutanix Enterprise Cloud Platform, and showcase how simple Nutanix is to configure and manage.
 
-Work with your local Field Marketing Manager (FMM) to make a Bootcamp event landing and registration page. FMMs also help with identifying event locations, giveaway swag, and pipeline tracking.
+The purpose of a bootcamp is to give attendees a close-up view of some of the powerful web-scale capabilities of the Nutanix Enterprise Cloud Platform, and showcase how simple Nutanix is to configure and manage.
 
-- Work with your stakeholders (Account Manager/Channel Partner/Prospect/Customer) to plan the Bootcamp date and agenda.
-- The account team(s) should drive attendees to register.
-- Supporting materials are on GDrive in the `Technology Bootcamp <https://ntnx.how/PresentationDecks>`_ folder.
-- FMMs have access to an additional pool of Marketing clusters outside of the normal HPOC.
-- If Marketing clusters are not available, make a HPOC reservation(s) on https://rx.corp.nutanix.com/.
+Bootcamp Format
++++++++++++++++
 
-Day of the Bootcamp
-...................
+Bootcamps are run as a 4-5 hour in-person event with lunch and swag included. The overall flow includes a brief presentation that provides a high-level overview of Nutanix and covers features in depth. Presentations are interspersed with demos and hands-on exercises on a live cluster to give participants a feel for the Nutanix environment. Attendees will use an online workbook (created and sent by the SE) to go through the exercises. Printed supplemental workbooks are also provided (ordered by FMMs) so that the attendees can annotate and make notes. The powerpoint slides and demos are arranged to be aligned chronologically with a customer’s Nutanix experience.
 
-- Arrive early, survey the site, and touch base with the onsite facilities contact.
-- Send link to the Bootcamp, and any updates, to the e-mail attendee list.
-- Have them register for the *nutanix.handsonworkshops.com* site if this is their first time attending a Bootcamp or Workshop.
-- If they have attended a Bootcamp or Workshop before, simply have them login with the user/password they used prior.
-- Project WiFi and Agenda info
+Ways To Run A Bootcamp
+++++++++++++++++++++++
+
+Marketing Event Bootcamp
+........................
+
+A Marketing hosted event for prospects to get hands-on with Nutanix solutions.
+
+FMM Handles:
+
+  - Creates Registration page
+  - sends event emails
+  - Salesforce tracking
+  - Reserves the Marketing Cluster
+  - Location & Food
+  - Swag
+  - Printed Materials (If Requested/Needed)
+
+SE Handles:
+
+  - Reserves HPOC if MKTG cluster is unavailable
+  - Creates Event Specific Bootcamp from template in the Hands on Workshop platform
+  - Takes the created digital workbook link, and sends the to attendees before the bootcamp
+  - Stages the Marketing Cluster (or HPOC) with staging script.
+
+Virtual Bootcamp
+................
+
+A 4-5 hour prospect or customer bootcamp that is hosted virtually over Zoom.
+
+FMM Handles:
+
+  - Creates Registration page
+  - sends event emails
+  - Salesforce tracking
+  - Reserves the Marketing Cluster
+  - Swag
+
+SE Handles:
+
+  - Reserves HPOC if MKTG cluster is unavailable
+  - Creates Event Specific Bootcamp from template in the Hands on Workshop platform
+  - Takes the created digital workbook link, and sends the to attendees before the bootcamp
+  - Stages the Marketing Cluster (or HPOC) with staging script.
+
+Account/Partner Based Bootcamp
+..............................
+
+This is a more targeted approach to running a Bootcamp. Great way to get a prospect some stick time to accelerate a deal, show an existing customer a product they do not currently use to go wide in the account, or lastly to enable a partner so they can go out and sell for us.
+
+FMM Handles:
+
+  - Creates Registration page
+  - sends event emails
+  - Salesforce tracking
+  - Reserves the Marketing Cluster
+  - Location (if not done onsite) & Food (If not handled by Acct/Channel team)
+  - Swag
+  - Printed Materials (If Requested/Needed)
+
+SE Handles:
+
+  - Reserves HPOC if MKTG cluster is unavailable
+  - Creates Event Specific Bootcamp from template in the Hands on Workshop platform
+  - Takes the created digital workbook link, and sends the to attendees before the bootcamp
+  - Stages the Marketing Cluster (or HPOC) with staging script.
+
+Bootcamp's Release
+++++++++++++++++++
+
+**Current Release - AOS 5.11.x / 5.15.x / 5.16.x & PC 5.16.x**
+
+.. list-table::
+  :widths: 40 20 40
+  :header-rows: 1
+
+  * - Bootcamp Name
+    - Audience Type
+    - Products & Description
+  * - **Private Cloud: AOS and AHV Bootcamp**
+    - Beginner/ Net-New
+    - A customer facing introduction to Nutanix Core Product (Core HCI, and Prism Element).
+  * - **Enterprise Private Cloud Bootcamp**
+    - Beginner/ Net-New
+    - A Day in the life with AOS, Files, Flow, Calm, and Prism Ops.
+  * - **Databases with Era Bootcamp**
+    - Advanced/ Customers & Prospects
+    - Using Era to deploy and manage MS Sql and Postgres DBs.
+  * - **End User Computing: Frame on AHV Bootcamp**
+    - Advanced/ Customers & Prospects
+    - Using Frame with Nutanix AHV, and also leveraging Files, Flow, and Prism Ops.
+  * - **End User Computing: Citrix on AHV Bootcamp**
+    - Advanced/ Customers & Prospects
+    - Using Citrix with Nutanix AHV, and also leveraging Files, Flow, and Prism Ops.
+  * - **Private Cloud: Files Bootcamp**
+    - Advanced/ Customers & Prospects
+    - Using Files and File Analytics, with a *Bonus* lab using Peer Software.
+  * - **Private Cloud: Calm Bootcamp**
+    - Advanced/ Customers & Prospects
+    - A customer facing bootcamp focusing on using Calm (3-tier Linux App, 2-tier Windows App, & Day 2 Activities).
+  * - **Cloud Native: API Bootcamp**
+    - Advanced/ Customers & Prospects
+    - Using Nutanix APIs for Cluster & VM management tasks.
+  * - **Hycu Add-On**
+    - Customers & Prospects
+    - Using Hycu with Nutanix.
+  * - **Veeam Add-On**
+    - Customers & Prospects
+    - Using Veeam with Nutanix.
+
+.. note::
+
+    For a more in-depth look at content including target audience and labs, view the content guide: `Bootcamp Content Guide & One Pagers <https://docs.google.com/document/d/1FzC2GX61nBP17qY6Dw-4d583nx6BPTsbO_eRszXIbmc/edit?usp=sharing>`_
+
+**Archiving End of April 2020**
+
+- **Nutanix Technology Bootcamp** - A customer facing introduction to Nutanix Core Product (HCI, and Prism Element).
+- **Nutanix Essentials Bootcamp** - A customer facing introduction to Nutanix Essentials Products (Prism Central, Prism Pro, Files, Calm, and Flow).
+- **Nutanix Enterprise Bootcamp** - A customer facing introduction to Nutanix Enterprise Products (Era, Karbon, Objects, & Cloud Native App).
+- **Introduction to Nutanix Private Cloud** - A customer facing introduction to Nutanix Private Cloud (Nutanix 101, & Intro to Calm).
+- **Nutanix Era Bootcamp** - A customer facing bootcamp focusing on using Era with Postgres and MSSQL.
+
+Bootcamp Materials & Resources
+++++++++++++++++++++++++++++++
+
+PDF version of printable workbooks (supplemental to the digital workbook) and customer-facing powerpoints: https://ntnx.how/PresentationDecks
+
+SE Wiki Page for an In-depth look at Bootcamps [*Must be connected to VPN*]: `SE Wiki Page Bootcamps <https://confluence.eng.nutanix.com:8443/display/SEW/Bootcamps>`_
+
+Internal Bootcamp Content Guide: `Bootcamp Content Guide & One Pagers <https://docs.google.com/document/d/1FzC2GX61nBP17qY6Dw-4d583nx6BPTsbO_eRszXIbmc/edit?usp=sharing>`_
+
+Bootcamp Swag funded by corporate and ordered by Field Marketing: `Internal Program Store (Program Materials) <https://nutanix.jniwebshop.com/category/16/program-materials>`_
+
+Printable Workbooks funded by corporate and ordered by Field Marketing: `Internal Program Store (Print on Demand) <https://nutanix.jniwebshop.com/category/74/print-on-demand>`_
 
 Getting Help
 ++++++++++++
 
 Have a question related to lab content or staging?
 
-Come ask in `#hands-on-workshops <slack://channel?id=C8WLPRTB3&team=T0252CLM8>`_ or `#technology-bootcamps <slack://channel?id=C0RAC0CHX&team=T0252CLM8>`_.
+Come ask in `#technology-bootcamps <slack://channel?id=C0RAC0CHX&team=T0252CLM8>`_ or `#hands-on-workshops <slack://channel?id=C8WLPRTB3&team=T0252CLM8>`_.
 
 Have a question related to RX, HPOC (including initial cluster Foundation)?
 
