@@ -48,6 +48,10 @@ To start you need to know which Workshop or Bootcamp you are running (*See First
 
 #. Once this has completed, you will have a URL specific to this instance that your attendees will use to register for the Workshop/Bootcamp.
 
+.. raw:: html
+
+  <strong><font color="red">You will provide the registration link to your attendees prior to the event</font></strong>
+
    .. figure:: images/create_bootcamp_06.png
 
 #. Copy the link (or click the **Clipboard Icon**) and open in a new browser tab.
@@ -56,7 +60,7 @@ To start you need to know which Workshop or Bootcamp you are running (*See First
 
    .. figure:: images/create_bootcamp_07.png
 
-#. You can provide the registration link to your attendees prior to the event, as they won't have access to the environment until you provide them with access credentials.
+#. You will provide the registration link to your attendees prior to the event, as they won't have access to the environment until you provide them with access credentials.
 
 Managing a Workshop
 +++++++++++++++++++
