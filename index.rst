@@ -77,7 +77,7 @@ SE Handles:
 
   - Reserves HPOC if MKTG cluster is unavailable
   - Creates Event Specific Bootcamp from template in the Hands on Workshop platform
-  - Takes the created digital workbook link, and sends the to attendees before the bootcamp
+  - **Takes the created digital workbook link, and sends the to attendees before the bootcamp**
   - Stages the Marketing Cluster (or HPOC) with staging script.
 
 Virtual Bootcamp
@@ -97,7 +97,7 @@ SE Handles:
 
   - Reserves HPOC if MKTG cluster is unavailable
   - Creates Event Specific Bootcamp from template in the Hands on Workshop platform
-  - Takes the created digital workbook link, and sends the to attendees before the bootcamp
+  - **Takes the created digital workbook link, and sends the to attendees before the bootcamp**
   - Stages the Marketing Cluster (or HPOC) with staging script.
 
 Account/Partner Based Bootcamp
@@ -119,7 +119,7 @@ SE Handles:
 
   - Reserves HPOC if MKTG cluster is unavailable
   - Creates Event Specific Bootcamp from template in the Hands on Workshop platform
-  - Takes the created digital workbook link, and sends the to attendees before the bootcamp
+  - **Takes the created digital workbook link, and sends the to attendees before the bootcamp**
   - Stages the Marketing Cluster (or HPOC) with staging script.
 
 Bootcamp's Release
