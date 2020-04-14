@@ -8,6 +8,8 @@ When reserving a cluster for your Workshop or Bootcamp, ensure you are creating 
 
 When Reserving an HPOC, for **Select Reason** choose **Staged Bootcamp and Training**.
 
+.. figure:: images/HPOC_Staging_Reasons.png
+
 .. note::
 
     Making that selection will automatically check the **Foundation Only** box on the next Screen.
@@ -26,8 +28,8 @@ If you are unsure which versions to select for a specific template, reach out in
 
 .. raw:: html
 
-  <strong><font color="red">Additionally, when creating your reservation, do **not** select Prism Central (PC) or any additional AHV images.</font></strong>
+  <strong><font color="red">Additionally, when creating your reservation, do **not** select Prism Central (PC) or any additional AHV images. Leave **Foundation Only** checked.</font></strong>
 
 Images will be uploaded via the script covered in :ref:`stage_environment`.
 
-.. figure:: images/rx_cluster_reserve_info.png
+.. figure:: images/HPOC_Foundation_Only.png
