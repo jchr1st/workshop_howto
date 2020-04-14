@@ -13,12 +13,18 @@ Generally, you will want to reserve the cluster at least 45 days before your des
 Reserving A Cluster
 ++++++++++++++++++++
 
-When reserving a cluster for your Workshop or Bootcamp, ensure you are creating the reservation using the correct Hypervisor and AOS version.
+When reserving a cluster for your Bootcamp, ensure you are creating the reservation using the correct Hypervisor and AOS version.
 
 - Specify "From" and "To" dates: 2 days total (day before and day of bootcamp).
-- Select Bootcamp (enter any other relevant information in the text field).
+- for **Select Reason** choose **Staged Bootcamp and Training**. (enter any other relevant information in the text field).
 - Share reservation: enter the SE's email address so that they get access to the reservation too and is able to make any changes as needed. (NOTE: Ensure you click the + character after entering the SE email in the form field)
 - Click on Next to get to the next screen.
+
+.. figure:: images/HPOC_dates_reason.png
+
+.. note::
+
+    Making that selection will automatically check the **Foundation Only** box on the next Screen.
 
 - **AHV Version** - 20170830.337
 - **AOS Version** - 5.11.2.3
@@ -41,7 +47,7 @@ The SE leading the boot camp is responsible for verifying that the foundation su
 
   **Please Note: Do not Select Prism Central or any Images when creating your reservation**. Images will be uploaded via the script covered in :ref:`stage_environment`.
 
-  .. figure:: images/rx_cluster_reserve_info.png
+  .. figure:: images/HPOC_Foundation_Only.png
 
 What If No Marketing Clusters Are Available?
 ++++++++++++++++++++++++++++++++++++++++++++
