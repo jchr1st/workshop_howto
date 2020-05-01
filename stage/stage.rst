@@ -29,21 +29,25 @@ With the latest release of Bootcamps, we have introduced *Bootcamp Specific Stag
    * - Bootcamp
      - Staging Option
    * - **AOS and AHV Bootcamp**
-     - Basic / API Bootcamp (AOS 5.11.x/AHV PC 5.11.2.1) = Current
+     - Basic / API Bootcamp (AOS 5.11.x|5.15.x|5.16.x/AHV PC 5.16.1.2)
    * - **Enterprise Private Cloud Bootcamp**
-     - Private Cloud Bootcamp (AOS 5.11.x/AHV PC 5.11.2.1) = Current
-   * - **Databases with Era Bootcamp**
-     - Databases with Era Bootcamp (AOS 5.11.x/AHV PC 5.11.2.1) = Current
+     - Private Cloud Bootcamp (AOS 5.11.x|5.15.x|5.16.x/AHV PC 5.16.1.2)
+   * - **Databases Era with MSSQL Bootcamp**
+     - Databases Era with MSSQL Bootcamp (AOS 5.11.x|5.15.x|5.16.x/AHV PC 5.16.1.2)
+   * - **Databases Era with Oracle Bootcamp**
+     - Databases Era with Oracle Bootcamp (AOS 5.11.x|5.15.x|5.16.x/AHV PC 5.16.1.2)
+   * - **Databases Era with Postgres Bootcamp**
+     - Databases Era with Postgres Bootcamp (AOS 5.11.x|5.15.x|5.16.x/AHV PC 5.16.1.2)
    * - **Files Bootcamp**
-     - Files Bootcamp (AOS 5.11.x/AHV PC 5.11.2.1) = Current
+     - Files Bootcamp (AOS 5.11.x|5.15.x|5.16.x/AHV PC 5.16.1.2)
    * - **Calm Bootcamp**
-     - Calm Workshop (AOS 5.11.x/AHV PC 5.11.2.1) = Current
+     - Calm Workshop (AOS 5.11.x|5.15.x|5.16.x/AHV PC 5.16.1.2)
    * - **Citrix on AHV Bootcamp**
-     - Citrix Bootcamp (AOS 5.11.x/AHV PC 5.11.2.1) = Current
+     - Citrix Bootcamp (AOS 5.11.x|5.15.x|5.16.x/AHV PC 5.16.1.2)
    * - **API Bootcamp**
-     - Basic / API Bootcamp (AOS 5.11.x/AHV PC 5.11.2.1) = Current
-   * - **Core/Essentials/Enterprise Bootcamps (Archiving End of April)**
-     - Previous Bootcamp Staging (AOS 5.11.x/AHV PC 5.11.2) = Stable
+     - Basic / API Bootcamp(AOS 5.11.x|5.15.x|5.16.x/AHV PC 5.16.1.2)
+   * - **Private Cloud Splunk on AHV with Objects Bootcamp**
+     - Private Cloud Splunk on AHV with Objects Bootcamp (AOS 5.11.x|5.15.x|5.16.x/AHV PC 5.16.1.2)
 
 Running the Staging Scripts
 +++++++++++++++++++++++++++
