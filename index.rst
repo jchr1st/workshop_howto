@@ -140,9 +140,15 @@ Bootcamp's Release
   * - **Enterprise Private Cloud Bootcamp**
     - Beginner/ Net-New
     - A Day in the life with AOS, Files, Flow, Calm, and Prism Ops.
-  * - **Databases with Era Bootcamp**
+  * - **Databases: Era with MSSQL Bootcamp**
     - Advanced/ Customers & Prospects
-    - Using Era to deploy and manage MS Sql and Postgres DBs.
+    - Using Era to deploy and manage MS Sql DBs.
+  * - **Databases: Era with Oracle Bootcamp**
+    - Advanced/ Customers & Prospects
+    - Using Era to deploy and manage Oracle DBs.
+  * - **Databases: Era with Postgres Bootcamp**
+    - Advanced/ Customers & Prospects
+    - Using Era to deploy and manage Postgres DBs.
   * - **End User Computing: Frame on AHV Bootcamp**
     - Advanced/ Customers & Prospects
     - Using Frame with Nutanix AHV, and also leveraging Files, Flow, and Prism Ops.
@@ -158,6 +164,9 @@ Bootcamp's Release
   * - **Cloud Native: API Bootcamp**
     - Advanced/ Customers & Prospects
     - Using Nutanix APIs for Cluster & VM management tasks.
+  * - **Private Cloud: Splunk on AHV with Objects Bootcamp**
+    - Advanced/ Customers & Prospects
+    - Deploying Splunk and using with Objects.
   * - **Hycu Add-On**
     - Customers & Prospects
     - Using Hycu with Nutanix.
@@ -169,13 +178,6 @@ Bootcamp's Release
 
     For a more in-depth look at content including target audience and labs, view the content guide: `Bootcamp Content Guide & One Pagers <https://docs.google.com/document/d/1FzC2GX61nBP17qY6Dw-4d583nx6BPTsbO_eRszXIbmc/edit?usp=sharing>`_
 
-**Archiving End of April 2020**
-
-- **Nutanix Technology Bootcamp** - A customer facing introduction to Nutanix Core Product (HCI, and Prism Element).
-- **Nutanix Essentials Bootcamp** - A customer facing introduction to Nutanix Essentials Products (Prism Central, Prism Pro, Files, Calm, and Flow).
-- **Nutanix Enterprise Bootcamp** - A customer facing introduction to Nutanix Enterprise Products (Era, Karbon, Objects, & Cloud Native App).
-- **Introduction to Nutanix Private Cloud** - A customer facing introduction to Nutanix Private Cloud (Nutanix 101, & Intro to Calm).
-- **Nutanix Era Bootcamp** - A customer facing bootcamp focusing on using Era with Postgres and MSSQL.
 
 Bootcamp Materials & Resources
 ++++++++++++++++++++++++++++++
