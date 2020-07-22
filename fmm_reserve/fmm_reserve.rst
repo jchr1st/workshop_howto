@@ -17,6 +17,11 @@ When reserving a cluster for your Bootcamp, ensure you are creating the reservat
 
 - Specify "From" and "To" dates: 2 days total (day before and day of bootcamp).
 - for **Select Reason** choose **Staged Bootcamp and Training**. (enter any other relevant information in the text field).
+
+.. note::
+
+    Making that selection will automatically check the **Foundation Only** box on the next Screen.
+
 - Share reservation: enter the SE's email address so that they get access to the reservation too and is able to make any changes as needed. (NOTE: Ensure you click the + character after entering the SE email in the form field)
 - Click on Next to get to the next screen.
 
@@ -24,7 +29,9 @@ When reserving a cluster for your Bootcamp, ensure you are creating the reservat
 
 .. note::
 
-    Making that selection will automatically check the **Foundation Only** box on the next Screen.
+    If this is for an Era Bootcamp, make sure to use and **All Flash** Cluster.
+
+    .. figure:: images/all_flash.png
 
 - **AHV Version** - 20170830.337
 - **AOS Version** - 5.11.2.3

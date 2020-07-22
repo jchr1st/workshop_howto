@@ -6,6 +6,12 @@ Reserving A HPOC Cluster
 
 When reserving a cluster for your Workshop or Bootcamp, ensure you are creating the reservation using the correct Hypervisor and AOS version.
 
+.. note::
+
+    If this is for an Era Bootcamp, make sure to use and **All Flash** Cluster.
+
+    .. figure:: images/all_flash.png
+
 When Reserving an HPOC, for **Select Reason** choose **Staged Bootcamp and Training**.
 
 .. figure:: images/HPOC_Staging_Reasons.png
