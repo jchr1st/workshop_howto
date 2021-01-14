@@ -15,46 +15,49 @@ Reserving A Cluster
 
 When reserving a cluster for your Bootcamp, ensure you are creating the reservation using the correct Hypervisor and AOS version.
 
+- Click **Reserve a Cluster** > **Nutanix Hosted**
+
+.. figure:: images/reserver_cluster.png
+
 - Specify "From" and "To" dates: 2 days total (day before and day of bootcamp).
-- for **Select Reason** choose **Staged Bootcamp and Training**. (enter any other relevant information in the text field).
+- Make sure **Mktg-PHX** is selected in the dropdown
+- Click **Confirm**
 
-.. note::
-
-    Making that selection will automatically check the **Foundation Only** box on the next Screen.
-
-- Share reservation: enter the SE's email address so that they get access to the reservation too and is able to make any changes as needed. (NOTE: Ensure you click the + character after entering the SE email in the form field)
-- Click on Next to get to the next screen.
-
-.. figure:: images/HPOC_dates_reason.png
+.. figure:: images/reserve_dates.png
 
 .. note::
 
     If this is for an Era Bootcamp, make sure to use and **All Flash** Cluster.
 
-    .. figure:: images/all_flash.png
+- for **Select Reason** choose **Staged Bootcamp and Training**. (enter any other relevant information in the Notes field).
+- Share reservation: enter the SE's email address so that they get access to the reservation too and is able to make any changes as needed. (NOTE: Ensure you click the ** Share +** character after entering the SE email in the form field)
+- Click on **Next** to get to the next screen.
 
-- **AHV Version** - 20170830.337
-- **AOS Version** - 5.11.2.3
-- **CVM Memory** - 32GB
-- **Number of Nodes for Cluster?** - 3 or All? *Ask your SE Running Bootcamp what they prefer*
+.. figure:: images/reserve_reason.png
 
-- Leave custom password field blank (or enter a custom password if desired.
+- Enter the SEs name and Email on the **Customer Information** Screen
+- Click on **Next** to get to the next screen.
+
+.. figure:: images/reserve_customer_name.png
+
+- Select **Use a Runbook**
+- Leave custom password field blank or enter a custom password if desired.
 
 .. note::
 
   Warning: if entering a custom passwords note that all passwords get stored in clear text in a database so don't use any real passwords).
 
-- Click on "Submit Reservation"
+- **Select** the Runbook for the Bootcamp you are running.
+- Click on **Next** to get to the next screen.
+
+.. figure:: images/reserve_runbook.png
+
+- Click **Confirm** to complete the reservation.
 
 Once the cluster is reserved, SE and FMM should be getting a confirmation email, if the FMM shared the reservation. That email contains important reservation and access details for the cluster.
 
 The SE leading the boot camp is responsible for verifying that the foundation succeeded and the cluster is ready for the event. This should be done the **DAY BEFORE** the event so that should there be any complications there is time for the corporate SE or TME teams to resolve.
 
-.. note::
-
-  **Please Note: Do not Select Prism Central or any Images when creating your reservation**. Images will be uploaded via the script covered in :ref:`stage_environment`.
-
-  .. figure:: images/HPOC_Foundation_Only.png
 
 What If No Marketing Clusters Are Available?
 ++++++++++++++++++++++++++++++++++++++++++++

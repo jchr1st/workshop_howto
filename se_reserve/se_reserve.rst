@@ -4,38 +4,45 @@
 Reserving A HPOC Cluster
 ------------------------
 
-When reserving a cluster for your Workshop or Bootcamp, ensure you are creating the reservation using the correct Hypervisor and AOS version.
+When reserving a cluster for your Bootcamp, ensure you are creating the reservation using the correct Hypervisor and AOS version.
+
+- Click **Reserve a Cluster** > **Nutanix Hosted**
+
+.. figure:: images/reserver_cluster.png
 
 .. note::
 
     If this is for an Era Bootcamp, make sure to use and **All Flash** Cluster.
 
-    .. figure:: images/all_flash.png
+- Specify "From" and "To" dates: 2 days total (day before and day of bootcamp).
+- Select the appropriate Data Center in the dropdown
+- Click **Confirm**
 
-When Reserving an HPOC, for **Select Reason** choose **Staged Bootcamp and Training**.
+.. figure:: images/reserve_dates.png
 
-.. figure:: images/HPOC_Staging_Reasons.png
+- for **Select Reason** choose **Staged Bootcamp and Training**. (enter any other relevant information in the Notes field).
+- Share reservation: enter the SE's email address so that they get access to the reservation too and is able to make any changes as needed. (NOTE: Ensure you click the ** Share +** character after entering the SE email in the form field)
+- Click on **Next** to get to the next screen.
+
+.. figure:: images/reserve_reason.png
+
+- Enter your name and Email on the **Customer Information** Screen
+- Click on **Next** to get to the next screen.
+
+.. figure:: images/reserve_customer_name.png
+
+- Select **Use a Runbook**
+- Leave custom password field blank or enter a custom password if desired.
 
 .. note::
 
-    Making that selection will automatically check the **Foundation Only** box on the next Screen.
+  Warning: if entering a custom passwords note that all passwords get stored in clear text in a database so don't use any real passwords).
 
-When cloning a Workshop or a Bootcamp from a template, the homepage will contain the recommended Hypervisor/AOS versions to configure for your reservation under **Nutanix Version Info**.
+- **Select** the Runbook for the Bootcamp you are running.
+- Click on **Next** to get to the next screen.
 
-- **AHV Version** - Bundled AHV
-- **AOS Version** - 5.11.2.3 | 5.15.x | 5.16.1.2
-- **PC Version** - 5.16.1.2
+.. figure:: images/reserve_runbook.png
 
-**Example:**
-
-.. figure:: images/Nutanix_Bootcamp_Versions_5.11.png
+- Click **Confirm** to complete the reservation.
 
 If you are unsure which versions to select for a specific template, reach out in either `#technology-bootcamps <slack://channel?id=C0RAC0CHX&team=T0252CLM8>`_ or `#hands-on-workshops <slack://channel?id=C8WLPRTB3&team=T0252CLM8>`_ on Slack.
-
-.. raw:: html
-
-  <strong><font color="red">Additionally, when creating your reservation, do **not** select Prism Central (PC) or any additional AHV images. Leave **Foundation Only** checked.</font></strong>
-
-Images will be uploaded via the script covered in :ref:`stage_environment`.
-
-.. figure:: images/HPOC_Foundation_Only.png
