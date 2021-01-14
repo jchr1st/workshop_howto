@@ -21,7 +21,7 @@ When reserving a cluster for your Bootcamp, ensure you are creating the reservat
 .. figure:: images/reserve_dates.png
 
 - for **Select Reason** choose **Staged Bootcamp and Training**. (enter any other relevant information in the Notes field).
-- Share reservation: enter the SE's email address so that they get access to the reservation too and is able to make any changes as needed. (NOTE: Ensure you click the ** Share +** character after entering the SE email in the form field)
+- Share reservation: enter the SE's email address so that they get access to the reservation too and is able to make any changes as needed. (NOTE: Ensure you click the **Share +** character after entering the SE email in the form field)
 - Click on **Next** to get to the next screen.
 
 .. figure:: images/reserve_reason.png
