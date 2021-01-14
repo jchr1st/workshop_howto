@@ -162,12 +162,12 @@ Bootcamp's Release
   * - **End User Computing: Citrix on AHV Bootcamp**
     - Advanced/ Customers & Prospects
     - Using Citrix with Nutanix AHV, and also leveraging Files, Flow, and Prism Ops.
-  * - **Private Cloud: Files Bootcamp**
+  * - **Private Cloud: Consolidated Storage Bootcamp**
     - Advanced/ Customers & Prospects
-    - Using Files and File Analytics, with a *Bonus* lab using Peer Software.
-  * - **Private Cloud: Calm Bootcamp**
+    - Using Files, File Analytics, and Objects with a *Bonus* lab using Peer Software.
+  * - **Private Cloud: Calm IaaS Bootcamp**
     - Advanced/ Customers & Prospects
-    - A customer facing bootcamp focusing on using Calm (3-tier Linux App, 2-tier Windows App, & Day 2 Activities).
+    - A customer facing bootcamp focusing on using Calm (Single VM Linux App, Single VM Windows App, & Day 2 Activities).
   * - **Cloud Native: API Bootcamp**
     - Advanced/ Customers & Prospects
     - Using Nutanix APIs for Cluster & VM management tasks.
