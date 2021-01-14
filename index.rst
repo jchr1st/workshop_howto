@@ -55,6 +55,13 @@ Bootcamp Format
 
 Bootcamps are run as a 4-5 hour in-person event with lunch and swag included. The overall flow includes a brief presentation that provides a high-level overview of Nutanix and covers features in depth. Presentations are interspersed with demos and hands-on exercises on a live cluster to give participants a feel for the Nutanix environment. Attendees will use an online workbook (created and sent by the SE) to go through the exercises. Printed supplemental workbooks are also provided (ordered by FMMs) so that the attendees can annotate and make notes. The powerpoint slides and demos are arranged to be aligned chronologically with a customer’s Nutanix experience.
 
+Do you want to run a Technology Bootcamp on Test Drive?
+
+Then check out this `Wiki <https://confluence.eng.nutanix.com:8443/display/TDP/Bootcamps+on+Test+Drive>`_ guide on what to consider and how to do so. A few key points to note:
+  - Test Drive can be used for running a virtual bootcamp, however it is not a direct replacement for `traditional Technology Bootcamps <https://confluence.eng.nutanix.com:8443/display/SEW/Bootcamps>`_ hosted on HPOC, but rather compliments the existing program.
+  - Test Drive is not a panacea Certain bootcamps/products/solutions cannot be run on Test Drive (see the decision chart on the Wiki Guide noted above
+  - The cloud is not infinite - if you plan on hosting a virtual bootcamp or event leveraging Test Drive, you must let the Test Drive team know ahead of time using this `form <https://ntnx.wufoo.com/forms/m3d5g6o13dj895/>`_ so adequate resources can be provisioned ahead of time so users aren't left waiting for a Test Drive Cluster to provision.
+
 Ways To Run A Bootcamp
 ++++++++++++++++++++++
 
@@ -125,7 +132,7 @@ SE Handles:
 Bootcamp's Release
 ++++++++++++++++++
 
-**Current Release - AOS 5.11.x / 5.15.x / 5.16.x & PC 5.16.x**
+**Current Release - AOS 5.18.x
 
 .. list-table::
   :widths: 40 20 40
