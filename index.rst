@@ -18,6 +18,7 @@
   create/create
   stage/stage
   access/access
+  network/network
 
 .. toctree::
   :maxdepth: 2
@@ -27,7 +28,14 @@
 
   fmm_reserve/fmm_reserve
 
-.. _getting_started:
+.. toctree::
+  :maxdepth: 2
+  :caption: Help
+  :name: _getting_help
+  :hidden: 
+
+  getting_help/getting_help
+
 
 -----------------------
 Nutanix Workshops HOWTO
@@ -198,18 +206,18 @@ Internal Bootcamp Content Guide: `Bootcamp Content Guide & One Pagers <https://d
 Bootcamp Swag funded by corporate and ordered by Field Marketing: `Internal Program Store (Program Materials) <https://nutanix.jniwebshop.com/category/16/program-materials>`_
 
 Printable Workbooks funded by corporate and ordered by Field Marketing: `Internal Program Store (Print on Demand) <https://nutanix.jniwebshop.com/category/74/print-on-demand>`_
+TODO:Remove Getting help after testing
+.. Getting Help
+.. ++++++++++++
 
-Getting Help
-++++++++++++
+.. Have a question related to lab content or staging?
 
-Have a question related to lab content or staging?
+.. Come ask in `#technology-bootcamps <slack://channel?id=C0RAC0CHX&team=T0252CLM8>`_ or `#hands-on-workshops <slack://channel?id=C8WLPRTB3&team=T0252CLM8>`_.
 
-Come ask in `#technology-bootcamps <slack://channel?id=C0RAC0CHX&team=T0252CLM8>`_ or `#hands-on-workshops <slack://channel?id=C8WLPRTB3&team=T0252CLM8>`_.
+.. Have a question related to RX, HPOC (including initial cluster Foundation)?
 
-Have a question related to RX, HPOC (including initial cluster Foundation)?
+.. Come ask in `#rx-and-hpoc <slack://channel?id=C0JSE04TA&team=T0252CLM8>`_.
 
-Come ask in `#rx-and-hpoc <slack://channel?id=C0JSE04TA&team=T0252CLM8>`_.
+.. Have a question related to Frame, Parallels VDI, or Pulse VPN access?
 
-Have a question related to Frame, Parallels VDI, or Pulse VPN access?
-
-Come ask in `#x-labs <slack://channel?id=CF6GRQ4TU&team=T0252CLM8>`_.
+.. Come ask in `#x-labs <slack://channel?id=CF6GRQ4TU&team=T0252CLM8>`_.
