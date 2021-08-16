@@ -48,13 +48,16 @@
     - Advanced/ Customers & Prospects
     - Using Nutanix APIs for Cluster & VM management tasks.
   * - **Private Cloud: Splunk on AHV with Objects Bootcamp**
+    -
     - Private Cloud Splunk on AHV with Objects
     - Advanced/ Customers & Prospects
     - Deploying Splunk and using with Objects.
   * - **Hycu Add-On**
+    - 
     - Customers & Prospects
     - Using Hycu with Nutanix.
   * - **Veeam Add-On**
+    - 
     - Customers & Prospects
     - Using Veeam with Nutanix.
 
