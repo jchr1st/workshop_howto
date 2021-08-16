@@ -4,7 +4,8 @@
 Available customer & partner facing Boot Camps
 ------------
 
-The following table contains all of the Bootcamps and associated Runbooks. Any requires additional manual *steps*
+The following table contains the template names  and associated Runbooks, executed in RX to successfully deliver Bootcamps.
+There are some Bootcamps that require additional staging outside of the Runbooks which are identified with *italics*.
 
 .. list-table::
   :widths: 40 20 20 40
