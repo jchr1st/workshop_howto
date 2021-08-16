@@ -35,18 +35,18 @@ The NTNXLAB.local domain provided by the **AutoAD** VM is pre-populated with the
    * - 10.x.x.15
      - File Analytics
      - 
-   * - SSP Consumers
-     - consumer01-consumer25
-     - nutanix/4u
-   * - SSP Operators
-     - operator01-operator25
-     - nutanix/4u
-   * - SSP Custom
-     - custom01-custom25
-     - nutanix/4u
-   * - Bootcamp Users
-     - user01-user25
-     - nutanix/4u
+   * - 10.x.x.16 - 10.x.x.21
+     - Objects
+     - 
+   * - 10.x.x.23
+     - Beam
+     - 
+   * - 10.x.x.25 - 10.x.x.28
+     - Hosts
+     - 
+   * - 10.x.x.29 - 10.x.x.32
+     - CVMs
+     - 
    * - Bootcamp Users
      - user01-user25
      - nutanix/4u

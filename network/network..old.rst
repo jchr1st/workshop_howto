@@ -7,7 +7,7 @@ Network
 The NTNXLAB.local domain provided by the **AutoAD** VM is pre-populated with the following Security Groups and User Accounts:
 
 .. list-table::
-   :widths: 20 30 30
+   :widths: 11 35 40
    :header-rows: 1
 
    * - IP Range
