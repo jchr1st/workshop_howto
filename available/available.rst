@@ -4,7 +4,7 @@
   :header-rows: 1
 
   * - Bootcamp Name
-    - Runbook Name (RX)
+    - Runbook Name
     - Audience Type
     - Products & Description
   * - **Private Cloud: AOS and AHV Bootcamp**
