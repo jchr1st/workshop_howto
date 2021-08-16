@@ -37,7 +37,7 @@ The NTNXLAB.local domain provided by the **AutoAD** VM is pre-populated with the
    * - 10.x.x.29 - 10.x.x.32
      - CVMs
      - 
-     * - 10.x.x.33 - 10.x.x.36
+   * - 10.x.x.33 - 10.x.x.36
      - IPMI
      -
    * - 10.x.x.37
