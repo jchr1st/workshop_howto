@@ -1,6 +1,6 @@
 
 .. list-table::
-  :widths: 40 20 40
+  :widths: 40 20 40 30
   :header-rows: 1
 
   * - Bootcamp Name
