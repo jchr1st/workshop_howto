@@ -14,6 +14,7 @@
   :name: _se
   :hidden:
 
+  available/available
   se_reserve/se_reserve
   create/create
   stage/stage
