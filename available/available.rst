@@ -60,11 +60,11 @@ There are some Bootcamps that require additional staging outside of the Runbooks
     - Advanced/ Customers & Prospects
     - Deploying Splunk and using with Objects.
   * - **Private Cloud: Leap Addon**
-    -  *Leap Add-On Bootcamp***
+    -  *Leap Add-On Bootcamp**
     - Advanced/ Customer & Prospects
     - Using Protection Policies within Prism Central.
   * - **Private Cloud: Self-Service IaaS with Nutanix & ServiceNow**
-    - *Self-Service IaaS with Calm & ServiceNow***
+    - *Self-Service IaaS with Calm & ServiceNow**
     - Advanced/ Customer & Prospects
     - Integration of CalM with ServiceNow to enable Self Service of blueprints within ServiceNow
   * - **Private Cloud: Flow Bootcamp**
