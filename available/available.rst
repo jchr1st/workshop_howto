@@ -55,7 +55,6 @@ Available customer & partner facing Boot Camps
     - Advanced/ Customers & Prospects
     - Using Nutanix APIs for Cluster & VM management tasks.
   * - **Private Cloud: Splunk on AHV with Objects Bootcamp**
-    -
     - Private Cloud Splunk on AHV with Objects
     - Advanced/ Customers & Prospects
     - Deploying Splunk and using with Objects.
