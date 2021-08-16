@@ -7,7 +7,7 @@ Available customer & partner facing Boot Camps
 The following table contains all of the Bootcamps and associated Runbooks. Any requires additional manual *steps*
 
 .. list-table::
-  :widths: 30 20 20 10
+  :widths: 40 20 20 40
   :header-rows: 1
 
   * - Bootcamp Name
