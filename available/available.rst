@@ -1,3 +1,10 @@
+.. _available:
+
+------------
+Available customer & partner facing Boot Camps
+------------
+
+
 
 .. list-table::
   :widths: 30 20 30 20
