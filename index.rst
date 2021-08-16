@@ -19,6 +19,7 @@
   stage/stage
   access/access
   network/network
+  ad_scheme/ad_scheme
 
 .. toctree::
   :maxdepth: 2
