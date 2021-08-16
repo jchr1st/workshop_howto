@@ -4,7 +4,7 @@
 Available customer & partner facing Boot Camps
 ------------
 
-
+The following table contains all of the Bootcamps and associated Runbooks. Any *italics* requires additional manual steps
 
 .. list-table::
   :widths: 30 20 20 10
