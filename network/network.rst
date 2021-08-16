@@ -1,10 +1,13 @@
 .. _network:
 
 ------------
-Network
+Network Configuration
 ------------
 
-The NTNXLAB.local domain provided by the **AutoAD** VM is pre-populated with the following Security Groups and User Accounts:
+The following tables detail the network IP Address assignments for multi node & single node environments.
+
+Multi Node reservations
+-----------------------
 
 .. list-table::
    :widths: 11 35 40
