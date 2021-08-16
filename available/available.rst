@@ -7,7 +7,7 @@ Available customer & partner facing Boot Camps
 
 
 .. list-table::
-  :widths: 30 20 30 20
+  :widths: 30 20 20 10
   :header-rows: 1
 
   * - Bootcamp Name
