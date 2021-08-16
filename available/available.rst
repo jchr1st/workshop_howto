@@ -59,14 +59,31 @@ There are some Bootcamps that require additional staging outside of the Runbooks
     - Private Cloud Splunk on AHV with Objects
     - Advanced/ Customers & Prospects
     - Deploying Splunk and using with Objects.
-  * - **Hycu Add-On**
-    -  
-    - Customers & Prospects
-    - Using Hycu with Nutanix.
-  * - **Veeam Add-On**
-    -  
-    - Customers & Prospects
-    - Using Veeam with Nutanix.
+  * - **Private Cloud: Leap Addon**
+    -  *Leap Add-On Bootcamp*
+    - Advanced/ Customer & Prospects
+    - Using Protection Policies within Prism Central.
+  * - **Private Cloud: Self-Service IaaS with Nutanix & ServiceNow**
+    - *Self-Service IaaS with Calm & ServiceNow*
+    - Advanced/ Customer & Prospects
+    - Integration of CalM with ServiceNow to enable Self Service of blueprints within ServiceNow
+  * - **Private Cloud: Flow Bootcamp**
+    - Flow Bootcamp
+    - Advanced/ Customers & Prospects
+    - A customer facing bootcamp focusing on using Flow to create network security policies in Prism Central.
+  * - **Cloud Native: Containerizing Apps & CI/CD**
+    - Containerizing Apps & CI/CD
+    - Advanced/ Customers & Prospects
+    - A customer facing bootcamp focusing on using Calm as part of a CI/CD pipeline.
+  * - **Private Cloud: Prism Ultimate Bootcamp**
+    - Private Cloud: Prism Ultimate Bootcamp
+    - Advanced/ Customers & Prospects
+    - .
+  * - **Cloud Native: Apps on Nutanix**
+    - Containerizing Apps & CI/CD
+    - Advanced/ Customers & Prospects
+    - A customer facing bootcamp focusing on using Calm for containerized application deployment.
+
 
 .. note::
 
