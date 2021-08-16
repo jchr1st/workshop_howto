@@ -1,6 +1,6 @@
 
 .. list-table::
-  :widths: 40 20 40 30
+  :widths: 30 20 30 20
   :header-rows: 1
 
   * - Bootcamp Name
@@ -24,7 +24,7 @@
     - Advanced/ Customers & Prospects
     - Using Era to deploy and manage Oracle DBs.
   * - **Databases: Era with Postgres Bootcamp**
-    - 
+    -  
     - Advanced/ Customers & Prospects
     - Using Era to deploy and manage Postgres DBs.
   * - **End User Computing: Frame on AHV Bootcamp**
@@ -44,7 +44,7 @@
     - Advanced/ Customers & Prospects
     - A customer facing bootcamp focusing on using Calm (Single VM Linux App, Single VM Windows App, & Day 2 Activities).
   * - **Cloud Native: API Bootcamp**
-    - 
+    -  
     - Advanced/ Customers & Prospects
     - Using Nutanix APIs for Cluster & VM management tasks.
   * - **Private Cloud: Splunk on AHV with Objects Bootcamp**
@@ -53,11 +53,11 @@
     - Advanced/ Customers & Prospects
     - Deploying Splunk and using with Objects.
   * - **Hycu Add-On**
-    - 
+    -  
     - Customers & Prospects
     - Using Hycu with Nutanix.
   * - **Veeam Add-On**
-    - 
+    -  
     - Customers & Prospects
     - Using Veeam with Nutanix.
 
