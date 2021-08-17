@@ -8,7 +8,7 @@ The following table contains the template names  and associated Runbooks, execut
 There are some Bootcamps that require additional staging outside of the Runbooks which are identified with *italics*.
 
 .. list-table::
-  :widths: 40 20 20 40
+  :widths: 40 40 20 40
   :header-rows: 1
 
   * - Bootcamp Name

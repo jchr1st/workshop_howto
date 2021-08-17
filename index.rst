@@ -15,8 +15,8 @@
   :hidden:
 
   available/available
-  se_reserve/se_reserve
   create/create
+  se_reserve/se_reserve
   stage/stage
   access/access
   network/network
