@@ -58,8 +58,6 @@ Generally, we use **Workshops** to refer to internal or partner facing hands on 
 
 The purpose of a bootcamp is to give attendees a close-up view of some of the powerful web-scale capabilities of the Nutanix Enterprise Cloud Platform, and showcase how simple Nutanix is to configure and manage.
 
-The purpose of a bootcamp is to give attendees a close-up view of some of the powerful web-scale capabilities of the Nutanix Enterprise Cloud Platform, and showcase how simple Nutanix is to configure and manage.
-
 Bootcamp Format
 +++++++++++++++
 
@@ -139,13 +137,13 @@ SE Handles:
   - **Takes the created digital workbook link, and sends the to attendees before the bootcamp**
   - Stages the Marketing Cluster (or HPOC) with staging script.
 
-TODO:remove the following once approved
+.. TODO:remove the following once approved
 .. Bootcamp's Release
 .. ++++++++++++++++++
 
 .. **Current Release - AOS 5.18.x
 
-.. .. list-table::
+.. list-table::
 ..   :widths: 40 20 40
 ..   :header-rows: 1
 
@@ -192,24 +190,24 @@ TODO:remove the following once approved
 ..     - Customers & Prospects
 ..     - Using Veeam with Nutanix.
 
-.. .. note::
+.. note::
 
 ..     For a more in-depth look at content including target audience and labs, view the content guide: `Bootcamp Content Guide & One Pagers <https://docs.google.com/document/d/1FzC2GX61nBP17qY6Dw-4d583nx6BPTsbO_eRszXIbmc/edit?usp=sharing>`_
 
 
-Bootcamp Materials & Resources
-++++++++++++++++++++++++++++++
+.. Bootcamp Materials & Resources
+.. ++++++++++++++++++++++++++++++
 
-PDF version of printable workbooks (supplemental to the digital workbook) and customer-facing powerpoints: https://ntnx.how/PresentationDecks
+.. PDF version of printable workbooks (supplemental to the digital workbook) and customer-facing powerpoints: https://ntnx.how/PresentationDecks
 
-SE Wiki Page for an In-depth look at Bootcamps [*Must be connected to VPN*]: `SE Wiki Page Bootcamps <https://confluence.eng.nutanix.com:8443/display/SEW/Bootcamps>`_
+.. SE Wiki Page for an In-depth look at Bootcamps [*Must be connected to VPN*]: `SE Wiki Page Bootcamps <https://confluence.eng.nutanix.com:8443/display/SEW/Bootcamps>`_
 
-Internal Bootcamp Content Guide: `Bootcamp Content Guide & One Pagers <https://docs.google.com/document/d/1FzC2GX61nBP17qY6Dw-4d583nx6BPTsbO_eRszXIbmc/edit?usp=sharing>`_
+.. Internal Bootcamp Content Guide: `Bootcamp Content Guide & One Pagers <https://docs.google.com/document/d/1FzC2GX61nBP17qY6Dw-4d583nx6BPTsbO_eRszXIbmc/edit?usp=sharing>`_
 
-Bootcamp Swag funded by corporate and ordered by Field Marketing: `Internal Program Store (Program Materials) <https://nutanix.jniwebshop.com/category/16/program-materials>`_
+.. Bootcamp Swag funded by corporate and ordered by Field Marketing: `Internal Program Store (Program Materials) <https://nutanix.jniwebshop.com/category/16/program-materials>`_
 
-Printable Workbooks funded by corporate and ordered by Field Marketing: `Internal Program Store (Print on Demand) <https://nutanix.jniwebshop.com/category/74/print-on-demand>`_
-TODO:Remove Getting help after testing
+.. Printable Workbooks funded by corporate and ordered by Field Marketing: `Internal Program Store (Print on Demand) <https://nutanix.jniwebshop.com/category/74/print-on-demand>`_
+.. TODO:Remove Getting help after testing
 .. Getting Help
 .. ++++++++++++
 

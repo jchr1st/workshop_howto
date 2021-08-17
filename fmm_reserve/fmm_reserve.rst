@@ -75,6 +75,14 @@ Check with your SE for Sales HPOC availability as SEs will have access to HPOC b
 
 Alternatively, try emailing hostedpoc@nutanix.com to see if they have any clusters set aside that are available for your event date.
 
+
+Bootcamp Swa & Workbooks
+++++++++++++++++++++++++++++++
+
+Bootcamp Swag funded by corporate and ordered by Field Marketing: `Internal Program Store (Program Materials) <https://nutanix.jniwebshop.com/category/16/program-materials>`_
+
+Printable Workbooks funded by corporate and ordered by Field Marketing: `Internal Program Store (Print on Demand) <https://nutanix.jniwebshop.com/category/74/print-on-demand>`_
+
 Need Help?
 ++++++++++++
 
