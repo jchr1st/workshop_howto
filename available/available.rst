@@ -85,7 +85,7 @@ There are some Bootcamps that require additional staging outside of the Runbooks
     - A customer facing bootcamp focusing on using Calm for containerized application deployment.
 
 
-* Requires additional staging outside of Runbooks
+"*" Requires additional staging outside of Runbooks
 
 .. note::
 
