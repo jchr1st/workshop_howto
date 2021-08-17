@@ -79,6 +79,14 @@ There are some Bootcamps that require additional staging outside of the Runbooks
     - Private Cloud: Prism Ultimate Bootcamp
     - Advanced/ Customers & Prospects
     - .
+  * - **PACE: Era Bootcamp**
+    - Pace Era Workshops
+    - Advanced/ Customers & Prospects
+    - .
+  * - **Databases: Era Combo Bootcamp**
+    - Era All
+    - Advanced/ Customers & Prospects
+    - .
   * - **Cloud Native: Apps on Nutanix**
     - Containerizing Apps & CI/CD
     - Advanced/ Customers & Prospects

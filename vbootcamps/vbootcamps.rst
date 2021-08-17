@@ -19,7 +19,7 @@ This list of Bootcamps should provide the best user experience.
 - Databases with Era (Should have gone through Enterprise Cloud or AOS and AHV)
 - Files Bootcamp
 - Citrix on AHV (Up to 10-11ppl)
-- Frame on AHV *Coming Soon!* (Up to 10-11ppl)
+- Frame on AHV *Now Available* (Up to 10-11ppl)
 
 Could use with Prospect or Customer Specific
 ............................................
