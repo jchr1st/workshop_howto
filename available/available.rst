@@ -5,7 +5,7 @@ Available customer & partner facing Boot Camps
 ------------
 
 The following table contains the template names and associated Runbooks, executed in RX to successfully deliver Bootcamps.
-There are some Bootcamps that require additional staging outside of the Runbooks which are identified with *italics*.
+There are some Bootcamps that require additional stasteps outside of the Runbooks. The Bootcamps that require additional steps are identified in *italics*. Scroll to the bottom of the table for more information.
 
 .. list-table::
   :widths: 40 40 20 40
@@ -93,7 +93,7 @@ There are some Bootcamps that require additional staging outside of the Runbooks
     - A customer facing bootcamp focusing on using Calm for containerized application deployment.
 
 
-*Requires additional staging outside of Runbooks
+*Requires additional manual steps which are detailed in the Bootcamp guides.  Please allow time to complete the additional steps before scheduling a session with a partner or customer.
 
 .. note::
 
