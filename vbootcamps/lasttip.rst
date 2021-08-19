@@ -8,6 +8,6 @@ If this is the first time you are running your chosen boot, always book some tim
 
 If you haven't delivered the chosen bootcamp for a while, we strongly suggest taking the time to refamiliarize with the Bootcamp & associated guide.
 
-.. .. figure:: images/practice.jpg
+.. figure:: images/practice.jpg
 
 Bootcamps are periodically updated and aligned to major releases and capabilities. Please join the `#technology-bootcamps <slack://channel?id=C0RAC0CHX&team=T0252CLM8>`_ in Slack as this is one of the main channels we use to announce Bootcamps Updates.
