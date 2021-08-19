@@ -27,7 +27,7 @@ To start you need to know which Workshop or Bootcamp you are running (*See First
 
 #. You should now see all of the **Active Workshops** you have created.
 
-#. To clone a Template, Click **Add A Workshop +**.
+#. To clone a Template, Click **Add A Workshop +**. [TODO: Not all SEs have this ability. If they do not, instruct them to post in #technology-bootcamps]
 
    .. figure:: images/create_bootcamp_03.png
 
@@ -38,7 +38,7 @@ To start you need to know which Workshop or Bootcamp you are running (*See First
    - **Description** - While optional, the description allows you to provide brief context about what will be covered during the Workshop/Bootcamp or other logistical details such as address and time. **Do Not Put Passwords Here**
    - **Notes** - Optional **Do Not Put Passwords Here**
 
-   .. figure:: images/create_bootcamp_04.png
+   .. figure:: images/create_bootcamp_04.png [TODO: Update the screenshot, because no one outside our group has github rights, and we don't want to create questions]
 
 #. Click **Add Workshop**.
 
@@ -50,7 +50,7 @@ To start you need to know which Workshop or Bootcamp you are running (*See First
 
 .. raw:: html
 
-  <strong><font color="red">You will provide the registration link to your attendees prior to the event</font></strong>
+  <strong><font color="red">You will provide the registration link to your attendees prior to the event</font></strong> [TODO: I would make this a note, not red.]
 
    .. figure:: images/create_bootcamp_06.png
 

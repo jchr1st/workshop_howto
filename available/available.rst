@@ -1,7 +1,7 @@
 .. _available:
 
 ------------
-Available customer & partner facing Boot Camps
+Available customer & partner facing Boot Camps [TODO: Capitalize all words in section headings]
 ------------
 
 The following table contains the template names and associated Runbooks, executed in RX to successfully deliver Bootcamps.
