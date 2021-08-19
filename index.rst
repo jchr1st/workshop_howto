@@ -2,14 +2,6 @@
 
 .. toctree::
   :maxdepth: 2
-  :caption: Virtual Bootcamps
-  :name: _vbootcamps
-  :hidden:
-
-  vbootcamps/vbootcamps
-
-.. toctree::
-  :maxdepth: 2
   :caption: SE Getting Started
   :name: _se
   :hidden:
@@ -38,6 +30,19 @@
 
   getting_help/getting_help
 
+.. toctree::
+  :maxdepth: 2
+  :caption: Virtual Bootcamps
+  :name: _vbootcamps
+  :hidden:
+
+  vbootcamps/vbootcamps
+  vbootcamps/setips
+  vbootcamp/fmmtips
+  vbootcamp/zoomsettings
+  vbootcamp/optimize
+  vbootcamp/presentationtips
+  vbootcamp/lasttip
 
 -----------------------
 Nutanix Workshops HOWTO
@@ -52,9 +57,9 @@ The purpose of this living document is to provide a complete reference for SEs a
 Workshop Vs. Bootcamp
 ++++++++++++++++++++
 
-**What's the difference?!** TODO: Only use **bold** when there is something for the person to do... click on **this**, select **that**. Not for emphasis.
+**What's the difference?!** 
 
-Generally, we use **Workshops** to refer to internal or partner facing hands on lab content. **Bootcamps**, which this document will cover in-depth, are customer facing, funded marketing events that can be used for lead generation and accelerating deals.
+Generally, we use Workshops to refer to internal or partner facing hands on lab content. Bootcamps, which this document will cover in-depth, are customer facing, funded marketing events that can be used for lead generation and accelerating deals.
 
 The purpose of a bootcamp is to give attendees a close-up view of some of the powerful web-scale capabilities of the Nutanix Enterprise Cloud Platform, and showcase how simple Nutanix is to configure and manage.
 
@@ -67,7 +72,7 @@ Bootcamps are run as a 4-5 hour in-person event with lunch and swag included. Th
 
 Then check out this `Wiki <https://confluence.eng.nutanix.com:8443/display/TDP/Bootcamps+on+Test+Drive>`_ guide on what to consider and how to do so. A few key points to note:
   - Test Drive can be used for running a virtual bootcamp, however it is not a direct replacement for `traditional Technology Bootcamps <https://confluence.eng.nutanix.com:8443/display/SEW/Bootcamps>`_ hosted on HPOC, but rather compliments the existing program.
-  - Test Drive is not a panacea Certain [TODO: Don't capitalize words that shouldn't be, unless it's something like a section heading] bootcamps/products/solutions cannot be run on Test Drive (see the decision chart on the Wiki Guide noted above
+  - Test Drive is not a panacea certain bootcamps/products/solutions cannot be run on Test Drive (see the decision chart on the Wiki Guide noted above.
   - The cloud is not infinite - if you plan on hosting a virtual bootcamp or event leveraging Test Drive, you must let the Test Drive team know ahead of time using this `form <https://ntnx.wufoo.com/forms/m3d5g6o13dj895/>`_ so adequate resources can be provisioned ahead of time so users aren't left waiting for a Test Drive Cluster to provision.
 
 Ways To Run A Bootcamp
@@ -123,7 +128,7 @@ This is a more targeted approach to running a Bootcamp. Great way to get a prosp
 FMM Handles:
 
   - Creates Registration page
-  - sends event emails [TODO: Consistency with bullet points. Capitalize.]
+  - Sends event emails
   - Salesforce tracking
   - Reserves the Marketing Cluster
   - Location (if not done onsite) & Food (If not handled by Acct/Channel team)
