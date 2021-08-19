@@ -13,7 +13,7 @@ SE Planning Tips
 - **Send personalized emails to attendees** - Send personalized emails to attendees to remind them of the bootcamp and to provide them login information. The day before the event send out personalized emails to every attendee with their login information. 
     
     Email 1
-    +++++++
+    """""""
 
         Hi **[Attendee First Name]**,
 
@@ -55,7 +55,7 @@ SE Planning Tips
     - An hour prior to the start of the bootcamp send out one mass email to all attendees with cluster details – Admin login and password – You don’t want to send this earlier to ensure that the cluster is in the expected state.
 
     Email 2
-    +++++++
+    """""""
 
         Greetings,
 
