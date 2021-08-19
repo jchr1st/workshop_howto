@@ -10,7 +10,7 @@ Multi Node reservations
 -----------------------
 
 .. list-table::
-   :widths: 11 35 40
+   :widths: 11 30 30
    :header-rows: 1
 
    * - IP Range

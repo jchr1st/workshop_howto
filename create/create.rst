@@ -27,9 +27,11 @@ To start you need to know which Workshop or Bootcamp you are running (*See First
 
 #. You should now see all of the **Active Workshops** you have created.
 
-#. To clone a Template, Click **Add A Workshop +**. [TODO: Not all SEs have this ability. If they do not, instruct them to post in #technology-bootcamps]
+#. To clone a Template, Click **Add A Workshop +**.
 
    .. figure:: images/create_bootcamp_03.png
+
+   - If you do not have the option to Add a worshop, post a message on the `#technology-bootcamps <slack://channel?id=C0RAC0CHX&team=T0252CLM8>`_ Slack channel.
 
 #. Fill out the following fields:
 
@@ -48,9 +50,9 @@ To start you need to know which Workshop or Bootcamp you are running (*See First
 
 #. Once this has completed, you will have a URL specific to this instance that your attendees will use to register for the Workshop/Bootcamp.
 
-.. raw:: html
+.. note::
 
-  <strong><font color="red">You will provide the registration link to your attendees prior to the event</font></strong> [TODO: I would make this a note, not red.]
+   You will provide the registration link to your attendees prior to the event
 
    .. figure:: images/create_bootcamp_06.png
 

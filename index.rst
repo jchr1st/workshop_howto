@@ -38,11 +38,11 @@
 
   vbootcamps/vbootcamps
   vbootcamps/setips
-  vbootcamp/fmmtips
-  vbootcamp/zoomsettings
-  vbootcamp/optimize
-  vbootcamp/presentationtips
-  vbootcamp/lasttip
+  vbootcamps/fmmtips
+  vbootcamps/zoomsettings
+  vbootcamps/optimize
+  vbootcamps/presentationtips
+  vbootcamps/lasttip
 
 -----------------------
 Nutanix Workshops HOWTO

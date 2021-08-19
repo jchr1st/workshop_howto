@@ -1,6 +1,5 @@
 .. _access:
 
-[TODO: Have the symbols start and end with related text]
 ------------------------- 
 Accessing the Environment
 -------------------------
@@ -9,10 +8,10 @@ Nutanix employees are able to access the Hosted POC environment with the `corpor
 
 Partners and customers can gain access to the Hosted POC environment using the following:
 
-Lab Access User Credentials [TODO: I would clean up the following sections. There are certain symbols we use in sections, and subsections. I've made the changes here for reference, but I have a list that if I haven't provided to you, I will. Add bullet points under each main line. Example below.]
+Lab Access User Credentials
 +++++++++++++++++++++++++++
 
-PHX Based Clusters: [TODO: Example references in above comment.]
+PHX Based Clusters: 
   - **Username:** PHX-POC###-User## (User01 through User20. Ex. PHX-POC123-User15)
   - **Password:** *<PROVIDED BY INSTRUCTOR>*
 

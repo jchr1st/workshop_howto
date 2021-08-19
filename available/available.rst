@@ -1,8 +1,8 @@
 .. _available:
 
-------------
-Available customer & partner facing Boot Camps [TODO: Capitalize all words in section headings]
-------------
+-----------------------------
+AVAILABLE CUSTOMOER BOOTCAMPS
+-----------------------------
 
 The following table contains the template names and associated Runbooks, executed in RX to successfully deliver Bootcamps.
 There are some Bootcamps that require additional stasteps outside of the Runbooks. The Bootcamps that require additional steps are identified in *italics*. Scroll to the bottom of the table for more information.

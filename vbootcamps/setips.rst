@@ -9,11 +9,11 @@ SE Planning Tips
 - **Prep before** - Familiarize yourself with Zoom, whiteboarding tools, and dry run with the group of SEs before the event
     - You do not need a special Zoom license. If you do not have a Zoom, ask X-bot in slack.
     - All supporting SEs should go through the bootcamp’s labs before the event so they know which labs are completed during the event.
-    - Day before, walk through the PDF document on the clusters to ensure everything is working properly.
-- **Send personalized emails to attendees** - Send personalized emails to attendees to remind them of the bootcamp and to provide them login information. The day before the event send out personalized emails to every attendee with their login information. 
+    - Day before, walk through the online guide to ensure everything is working properly.
+- **Send personalized emails to attendees** - The day before the event send out personalized emails to every attendee with their login information. 
     
     Email 1
-    """""""
+    -------
 
         Hi **[Attendee First Name]**,
 
@@ -55,7 +55,7 @@ SE Planning Tips
     - An hour prior to the start of the bootcamp send out one mass email to all attendees with cluster details – Admin login and password – You don’t want to send this earlier to ensure that the cluster is in the expected state.
 
     Email 2
-    """""""
+    -------
 
         Greetings,
 
@@ -69,7 +69,7 @@ SE Planning Tips
 
         Virtual Bootcamp Event Link: **[SEs Zoom Meeting Link]**
 
-        Digital Workbook: [A unique URL created by the SE in the Hands on Workshop Platform]
+        Digital Workbook: **[A unique URL created by the SE in the Hands on Workshop Platform]**
 
 
 
