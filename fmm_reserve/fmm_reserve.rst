@@ -4,7 +4,7 @@
 Reserving A Marketing Cluster
 -----------------------------
 
-Generally, you will want to reserve the cluster at least 45 days before your desired event date to ensure MKTG cluster availability. We recommend planning ahead by working with your SE to plan and build out a schedule for the entire quarter.
+Generally, you will want to reserve the cluster at least 45 days before your desired event date to ensure MKTG [TODO: Don't create acronyms unnecessarily.] cluster availability. We recommend planning ahead by working with your SE to plan and build out a schedule for the entire quarter.
 
 .. note::
 
@@ -15,7 +15,7 @@ Reserving A Cluster
 
 When reserving a cluster for your Bootcamp, ensure you are creating the reservation using the correct Hypervisor and AOS version.
 
-- Click **Reserve a Cluster** > **Nutanix Hosted**
+- Click **Reserve a Cluster** > **Nutanix Hosted** [TODO: Combine things that are multi-step. Ex: **Reserve a Cluster > Nutanix Hosted**]
 
 .. figure:: images/reserver_cluster.png
 
@@ -27,7 +27,7 @@ When reserving a cluster for your Bootcamp, ensure you are creating the reservat
 
 .. note::
 
-    If this is for an Era Bootcamp, make sure to use and **All Flash** Cluster.
+    If this is for an Era Bootcamp, make sure to use and [TODO: AN!] **All Flash** Cluster.
 
     These will be the **NX-3060-G6** Clusters
 
@@ -66,17 +66,17 @@ What If No Marketing Clusters Are Available?
 
 What if there are no Marketing Clusters Available for your desired event date?
 
-Check with your SE for Sales HPOC availability as SEs will have access to HPOC blocks other than what FMMs can see. SEs will have access to clusters that have more availability/”green space” on them since their pool is larger.
+Check with your SE for Sales HPOC availability as SEs will have access to HPOC blocks other than what FMMs can see. SEs will have access to clusters that have more availability/”green space” on them since their pool is larger. [TODO: Always try to reduce word count. Ex: Check with the SE as they have access to additional clusters. 31 words down to 11 and gets the same point across.]
 
 .. note::
 
-    PHX-SNC (Phoenix Single Node Cluster Pool) is often very open and we’ve recently rolled out the option for SEs to stage some bootcamps using Single Node Clusters in the staging scripts. Currently there are ~75 single node clusters available in the pool and these are often more available than four node clusters.
+    PHX-SNC (Phoenix Single Node Cluster Pool) [TODO: This is great. ALWAYS spell out acronyms the first time you use them] is often very open and we’ve recently rolled out the option for SEs to stage some bootcamps using Single Node Clusters in the staging scripts. Currently there are ~75 single node clusters available in the pool and these are often more available than four node clusters.
     **These will not work for all Bootcamps. Consult with the SE first**
 
 Alternatively, try emailing hostedpoc@nutanix.com to see if they have any clusters set aside that are available for your event date.
 
 
-Bootcamp Swa & Workbooks
+Bootcamp Swa [TODO: Spelling! Swag.] & Workbooks
 ++++++++++++++++++++++++++++++
 
 Bootcamp Swag funded by corporate and ordered by Field Marketing: `Internal Program Store (Program Materials) <https://nutanix.jniwebshop.com/category/16/program-materials>`_

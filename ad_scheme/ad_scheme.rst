@@ -4,7 +4,7 @@
 AD User Scheme
 ------------
 
-Each cluster has a dedicated domain controller VM, DC, responsible for providing AD services for the NTNXLAB.local domain. The domain is populated with the following Users and Groups:
+Each cluster has a dedicated domain controller VM, DC, [TODO: The VM is called AUTOAD] responsible for providing AD services for the NTNXLAB.local domain. The domain is populated with the following Users and Groups:
 
 
 .. list-table::

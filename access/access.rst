@@ -1,24 +1,27 @@
 .. _access:
 
-------------------------
+[TODO: Have the symbols start and end with related text]
+------------------------- 
 Accessing the Environment
-------------------------
+-------------------------
 
 Nutanix employees are able to access the Hosted POC environment with the `corporate GlobalProtect VPN <https://gp.nutanix.com>`_, or via either method covered below.
 
 Partners and customers can gain access to the Hosted POC environment using the following:
 
-Lab Access User Credentials
-...........................
+Lab Access User Credentials [TODO: I would clean up the following sections. There are certain symbols we use in sections, and subsections. I've made the changes here for reference, but I have a list that if I haven't provided to you, I will. Add bullet points under each main line. Example below.]
++++++++++++++++++++++++++++
 
-PHX Based Clusters:
-**Username:** PHX-POCxxx-User01 (up to PHX-POCxxx-User20), **Password:** *<Provided by Instructor>*
+PHX Based Clusters: [TODO: Example references in above comment.]
+  - **Username:** PHX-POC###-User## (User01 through User20. Ex. PHX-POC123-User15)
+  - **Password:** *<PROVIDED BY INSTRUCTOR>*
 
 RTP Based Clusters:
-**Username:** RTP-POCxxx-User01 (up to RTP-POCxxx-User20), **Password:** *<Provided by Instructor>*
+  - **Username:** RTP-POC###-User## (User01 through User20. Ex. RTP-POC123-User15)
+  - **Password:** *<PROVIDED BY INSTRUCTOR>*
 
 Frame VDI
----------
+.........
 
 Users can also access the HPOC through a Frame on AHV session.
 
@@ -28,7 +31,7 @@ Login to: https://console.nutanix.com/x/labs
 **Non-Employees** - Use **Lab Access User** Credentials
 
 Parallels VDI
--------------
+.............
 
 Users can also access the HPOC through a non-persistent Windows 10 virtual desktop.
 
@@ -48,7 +51,7 @@ The local client is recommended, but the HTML5 client is a great option for user
 .. figure:: images/2.png
 
 Pulse Secure VPN
-----------------
+................
 
 .. raw:: html
 
