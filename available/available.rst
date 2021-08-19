@@ -1,7 +1,7 @@
 .. _available:
 
 -----------------------------
-AVAILABLE CUSTOMOER BOOTCAMPS
+Available Customer Bootcamps
 -----------------------------
 
 The following table contains the template names and associated Runbooks, executed in RX to successfully deliver Bootcamps.
