@@ -54,14 +54,10 @@ The purpose of this living document is to provide a complete reference for SEs a
 
     Feedback and suggestions can be submitted to bootcamps@nutanix.com
 
-Workshop Vs. Bootcamp
+What are Bootcamps
 ++++++++++++++++++++
 
-**What's the difference?!** 
-
-Generally, we use Workshops to refer to internal or partner facing hands on lab content. Bootcamps, which this document will cover in-depth, are customer facing, funded marketing events that can be used for lead generation and accelerating deals.
-
-The purpose of a bootcamp is to give attendees a close-up view of some of the powerful web-scale capabilities of the Nutanix Enterprise Cloud Platform, and showcase how simple Nutanix is to configure and manage.
+Bootcamps are the way we provide hosted hands on lab delivered from our HPOC environments. Bootcamps are consumed by external parties (customers & partners) via remote desktop sessions which are proctored by SEs virtually or onsite with the customers. The deployment and confiugration of the clusters with associated products have been incorporated into Runbooks. All of the hands on lab guides are staged online via templates hosted on the Nutanix Bootcamp website.
 
 Bootcamp Format
 +++++++++++++++
