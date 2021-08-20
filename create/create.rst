@@ -40,7 +40,7 @@ To start you need to know which Workshop or Bootcamp you are running (*See First
    - **Description** - While optional, the description allows you to provide brief context about what will be covered during the Workshop/Bootcamp or other logistical details such as address and time. **Do Not Put Passwords Here**
    - **Notes** - Optional **Do Not Put Passwords Here**
 
-   .. figure:: images/create_bootcamp_04.png [TODO: Update the screenshot, because no one outside our group has github rights, and we don't want to create questions]
+   .. figure:: images/create_bootcamp_04.png
 
 #. Click **Add Workshop**.
 
