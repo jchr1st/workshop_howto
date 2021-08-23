@@ -6,6 +6,7 @@ FMM Planning Tips
 Plan 1-2 months ahead – Reviewing the data of MKT block reservations, we typically see a lot of availability 30-45 days out. Where possible, planning bootcamps 45+ days in advance will help ensure the availability of cluster resources.
 
 Aim for 12-15 attendees per bootcamp - We recommend keeping these to 12-15 attendees so that the SE can maintain a personalized discussion with attendees.
+
     - For a larger audience, scale the # of SEs that are helping based on the anticipated size of the audience. Recommendation is for 1 additional SE for every 5-10 attendees.
 
 Prioritize Bootcamps based on value - To-date, it’s been primarily first come/first serve for who books clusters. We ask that you be extra mindful when reserving clusters due to limited cluster availability. Only reserve a cluster for bootcamps that have a qualified audience (i.e. larger audience, closer to a purchase decision, stronger prospects) and de-prioritize those that have an audience of fewer, weaker, and more distant purchasers.
