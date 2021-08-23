@@ -16,7 +16,7 @@ Optimizing Your Workstation for Labs
 *No spare monitor or tablet? No problem! Follow the suggestions below to increase single monitor productivity:*
 
 - Windows 10
-    - **Use the built-in window “snapping”** by dragging your lab guide browser to one side of your screen and Prism/etc. browser to the opposite. “Win+Left Arrow” and “Win+Right Arrow” can also be used to snap windows. Adjust the lab guide to be narrower and expand your other browser as shown.
+    - Use the built-in window “snapping” by dragging your lab guide browser to one side of your screen and Prism/etc. browser to the opposite. “Win+Left Arrow” and “Win+Right Arrow” can also be used to snap windows. Adjust the lab guide to be narrower and expand your other browser as shown.
 - macOS
-    - **Use Spaces** by full screen maximizing one browser window for your lab guide and a separate browser for Prism/etc. Easily swap back and forth with a three-finger swipe on your trackpad or “Ctrl+Left Arrow” and “Ctrl+Right Arrow” shortcuts.
-    - **Use Split View** by clicking and holding the green maximize button and dragging to one side of your screen. Select your second browser window for the opposite side. Use the black bar in the middle to adjust. Split View can be used in combination with Spaces, making it easy to swap to Terminal windows, e-mail, etc.
+    - Use Spaces by full screen maximizing one browser window for your lab guide and a separate browser for Prism/etc. Easily swap back and forth with a three-finger swipe on your trackpad or “Ctrl+Left Arrow” and “Ctrl+Right Arrow” shortcuts.
+    - Use Split View by clicking and holding the green maximize button and dragging to one side of your screen. Select your second browser window for the opposite side. Use the black bar in the middle to adjust. Split View can be used in combination with Spaces, making it easy to swap to Terminal windows, e-mail, etc.
