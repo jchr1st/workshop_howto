@@ -39,7 +39,6 @@
   vbootcamps/vbootcamps
   vbootcamps/setips
   vbootcamps/fmmtips
-  vbootcamps/fmmtest
   vbootcamps/zoomsettings
   vbootcamps/optimize
   vbootcamps/presentationtips
