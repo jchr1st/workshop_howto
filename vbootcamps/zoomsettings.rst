@@ -4,7 +4,7 @@
 Zoom Settings Best Pracitces
 ++++++++++++++++++++++++++++
 
-- Make sure you have updated your Zoom profile with a professional picture *(Update your Slack profile with Pic as well while you are at it)*
+- Make sure you have updated your Zoom profile with a professional picture (Update your Slack profile with Pic as well while you are at it).
 - Configure the SE’s Zoom settings - Make sure that the Zoom is configured and set-up properly before the bootcamp.
     - Audio and video for attendees can be left on to encourage participation.
     - Enable “join before host” and disable participant beeps.
