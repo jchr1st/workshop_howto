@@ -3,12 +3,15 @@
 FMM Planning Tips
 +++++++++++++++++
 
-- Plan 1-2 months ahead – Reviewing the data of MKT block reservations, we typically see a lot of availability 30-45 days out. Where possible, planning bootcamps 45+ days in advance will help ensure the availability of cluster resources.
+Plan 1-2 months ahead – Reviewing the data of MKT block reservations, we typically see a lot of availability 30-45 days out. Where possible, planning bootcamps 45+ days in advance will help ensure the availability of cluster resources.
 
 - Aim for 12-15 attendees per bootcamp - We recommend keeping these to 12-15 attendees so that the SE can maintain a personalized discussion with attendees.
+
+|
+
     - For a larger audience, scale the # of SEs that are helping based on the anticipated size of the audience. Recommendation is for 1 additional SE for every 5-10 attendees.
 
-- Prioritize Bootcamps based on value - To-date, it’s been primarily first come/first serve for who books clusters. We ask that you be extra mindful when reserving clusters due to limited cluster availability. Only reserve a cluster for bootcamps that have a qualified audience (i.e. larger audience, closer to a purchase decision, stronger prospects) and de-prioritize those that have an audience of fewer, weaker, and more distant purchasers.
+Prioritize Bootcamps based on value - To-date, it’s been primarily first come/first serve for who books clusters. We ask that you be extra mindful when reserving clusters due to limited cluster availability. Only reserve a cluster for bootcamps that have a qualified audience (i.e. larger audience, closer to a purchase decision, stronger prospects) and de-prioritize those that have an audience of fewer, weaker, and more distant purchasers.
     - For deprioritized audiences, leverage Nutanix Test Drive where possible
         - Private cloud - AOS & AHV
         - Hybrid Cloud -  Clusters
@@ -24,6 +27,7 @@ FMM Planning Tips
       - Qualified leads – Test Drive captures key data and statistics and coordinates among Marketo, SFDC, and Adobe Analytics to identify who took which labs, for how long, and if they are an existing customer or new prospect.
 
 - Reserve the cluster for 48 hours - You will need to reserve a cluster for 48 hours (for the day before and day of the event) so that the SE can foundation and provide logins to end users the day before the event.
+
     - If DR capabilities are required, consider using the PHX-SingleNode Pool in RX to demonstrate Protection Domains. The PHX-SingleNode pool is available to all SEs
 
 - Keep Cluster Reservation open to 9pm or few hours past bootcamp hours for attendees to work on labs offline
