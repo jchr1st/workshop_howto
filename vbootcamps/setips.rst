@@ -3,14 +3,19 @@
 SE Planning Tips
 +++++++++++++++++
 
-- Plan 1-2 months ahead – Build out a virtual bootcamp calendar with your Field Marketing Manager
+Plan 1-2 months ahead – Build out a virtual bootcamp calendar with your Field Marketing Manager
+
     - Work with your FMM to publish and spread the event schedule to all customers / prospects
-- Ensure that you have the cluster at least 24 hours prior to the bootcamp event - Your Field Marketing Manager will reserve a MKTG cluster if available.
-- Prep before - Familiarize yourself with Zoom, whiteboarding tools, and dry run with the group of SEs before the event
+
+Ensure that you have the cluster at least 24 hours prior to the bootcamp event - Your Field Marketing Manager will reserve a MKTG cluster if available.
+
+Prep before - Familiarize yourself with Zoom, whiteboarding tools, and dry run with the group of SEs before the event
+
     - You do not need a special Zoom license. If you do not have a Zoom, ask X-bot in slack.
     - All supporting SEs should go through the bootcamp’s labs before the event so they know which labs are completed during the event.
     - Day before, walk through the online guide to ensure everything is working properly.
-- Send personalized emails to attendees - The day before the event send out personalized emails to every attendee with their login information. 
+
+Send personalized emails to attendees - The day before the event send out personalized emails to every attendee with their login information. 
     
 Email 1
 .......
