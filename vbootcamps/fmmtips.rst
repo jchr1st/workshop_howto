@@ -10,13 +10,13 @@ FMM Planning Tips
 
 - Prioritize Bootcamps based on value - To-date, it’s been primarily first come/first serve for who books clusters. We ask that you be extra mindful when reserving clusters due to limited cluster availability. Only reserve a cluster for bootcamps that have a qualified audience (i.e. larger audience, closer to a purchase decision, stronger prospects) and de-prioritize those that have an audience of fewer, weaker, and more distant purchasers.
     - For deprioritized audiences, leverage Nutanix Test Drive where possible
-      - Private cloud - AOS & AHV
-      - Hybrid Cloud -  Clusters
-      - Simplify Data Management - Files, Objects, Block
-      - Secure Your Applications - Flow
-      - AI Ops and Automateion - Prism Pro & Calm
-      - Elimiate Backup Silos -  Mine with Hycu
-      - Simplify Database Operations - Era  
+        - Private cloud - AOS & AHV
+        - Hybrid Cloud -  Clusters
+        - Simplify Data Management - Files, Objects, Block
+        - Secure Your Applications - Flow
+        - AI Ops and Automateion - Prism Pro & Calm
+        - Elimiate Backup Silos -  Mine with Hycu
+        - Simplify Database Operations - Era  
    
     - Test Drive conveys quite a few benefits:
       - Fewer limits in terms of resourcing since we’re leveraging the Public Cloud (although not infinite)
