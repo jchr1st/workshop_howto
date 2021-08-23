@@ -1,4 +1,4 @@
-.. _fmmtips:
+.. _fmmtest:
 
 FMM Planning Tips
 +++++++++++++++++
