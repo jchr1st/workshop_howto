@@ -82,7 +82,7 @@ There are some Bootcamps that require additional stasteps outside of the Runbook
   * - **PACE: Era Bootcamp**
     - PACE: Era Workshops
     - Advanced/ Customers & Prospects
-    - A customer facing bootcamp which includes how to setup and configure Era.
+    - A customer facing bootcamp focusing on how to deploy Era within their environment and manage Microsoft SQL Server & Oracle databases.
   * - **Databases: Era Combo Bootcamp**
     - Era All
     - Advanced/ Customers & Prospects
