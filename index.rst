@@ -70,7 +70,7 @@ Then check out this `Wiki <https://confluence.eng.nutanix.com:8443/display/TDP/B
   - Test Drive can be used for running a virtual bootcamp, however it is not a direct replacement for Bootcamps hosted on HPOC, but rather compliments the existing program.
   - Test Drive is not a panacea certain bootcamps/products/solutions cannot be run on Test Drive, use the the following decision chart in order to choose the appropriate platform for your requirement.
 
-.. figure:: images/tesdrive_flow.png
+.. figure:: images/testdrive_flow.png
 
   - The cloud is not infinite - if you plan on hosting a virtual bootcamp or event leveraging Test Drive, you must let the Test Drive team know ahead of time using this `form <https://ntnx.wufoo.com/forms/m3d5g6o13dj895/>`_ so adequate resources can be provisioned ahead of time so users aren't left waiting for a Test Drive Cluster to provision.
 
