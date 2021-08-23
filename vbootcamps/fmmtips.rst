@@ -36,6 +36,7 @@ FMM Planning Tips
     - Reward the first person to complete a lab, first person to answer a question in chat, Randomly raffle-off items, etc.
     - Giveaway bootcamp backpacks (funded by corporate in the internal store)
     - Fund additional raffles for e-gift cards like Uber Eats, Doordash, Starbucks
+    
 - Build an event landing page - Landing page copy and email copy for a virtual bootcamp is available in the NRS under “Virtual Technology Field Bootcamp Template”.
     - Make sure to include all relevant time zones in your landing pages and reminder emails if the bootcamp is shared with different time zones (I.e. Mid-atlantic covers both CST and EST)
     - Shift scheduled In-person bootcamps to Virtual ones - Change landing page copy and email copy in the event tool so reflect the changes. In the email copy make sure you have a Zoom link in there so they can join during the Bootcamp.
