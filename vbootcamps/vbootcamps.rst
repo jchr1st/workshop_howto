@@ -4,7 +4,7 @@
 Virtual Bootcamps - Best Practices
 ----------------------------------
 
-Given the current unique circumstances in the U.S., many events are now being held virtually. Fortunately, most in-person bootcamps can be hosted and run in a virtual meeting environment like Zoom. This doc will outline best practices for SEs and FMMs for hosting a virtual bootcamp using an SE’s regular Zoom account. Please note that each virtual bootcamp will look different depending on the SE’s and FMM’s preferences. All supporting bootcamp materials are currently accessible in digital format and can be found in the resources linked below. We ask that you approach virtual bootcamps with an open mind and as a learning opportunity.
+Given the current unique circumstances, many events are now being held virtually. Fortunately, most in-person bootcamps can be hosted and run in a virtual meeting environment like Zoom. This doc will outline best practices for SEs and FMMs for hosting a virtual bootcamp using an SE’s regular Zoom account. Please note that each virtual bootcamp will look different depending on the SE’s and FMM’s preferences. All supporting bootcamp materials are currently accessible in digital format and can be found in the resources linked below. We ask that you approach virtual bootcamps with an open mind and as a learning opportunity.
 
 Suggested Bootcamps for Virtual
 +++++++++++++++++++++++++++++++
