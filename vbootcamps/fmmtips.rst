@@ -15,7 +15,7 @@ FMM Planning Tips
       - Simplify Data Management - Files, Objects, Block
       - Secure Your Applications - Flow
       - AI Ops and Automateion - Prism Pro & Calm
-      - Elimiate Backup Silos -  
+      - Elimiate Backup Silos -  Mine with Hycu
       - Simplify Database Operations - Era  
     
     - Test Drive conveys quite a few benefits:

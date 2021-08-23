@@ -78,15 +78,15 @@ There are some Bootcamps that require additional stasteps outside of the Runbook
   * - **Private Cloud: Prism Ultimate Bootcamp**
     - Private Cloud: Prism Ultimate Bootcamp
     - Advanced/ Customers & Prospects
-    - .
+    - A customer facing bootcamp showcasing Prism Ultimate capabilities. Comprising of Capcity Planning, X-Play, Application Monitoring and Beam. 
   * - **PACE: Era Bootcamp**
-    - Pace Era Workshops
+    - PACE: Era Workshops
     - Advanced/ Customers & Prospects
-    - .
+    - A customer facing bootcamp which includes how to setup and configure Era.
   * - **Databases: Era Combo Bootcamp**
     - Era All
     - Advanced/ Customers & Prospects
-    - .
+    - A customer facing bootcamp focusing on managing Micosoft SQL Server & Oracle with Era.
   * - **Cloud Native: Apps on Nutanix**
     - Containerizing Apps & CI/CD
     - Advanced/ Customers & Prospects
