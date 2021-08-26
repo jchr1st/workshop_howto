@@ -31,7 +31,7 @@ When reserving a cluster for your Bootcamp, ensure you are creating the reservat
 
     These will be the **NX-3060-G6** Clusters
 
-- for **Select Reason** choose **Staged Bootcamp and Training**. (enter any other relevant information in the Notes field).
+- For **Select Reason** choose **Staged Bootcamp and Training**. (enter any other relevant information in the Notes field).
 - Share reservation: enter the SE's email address so that they get access to the reservation too and is able to make any changes as needed. (NOTE: Ensure you click the **Share +** character after entering the SE email in the form field)
 - Click on **Next** to get to the next screen.
 
@@ -64,9 +64,7 @@ The SE leading the boot camp is responsible for verifying that the foundation su
 What If No Marketing Clusters Are Available?
 ++++++++++++++++++++++++++++++++++++++++++++
 
-What if there are no Marketing Clusters Available for your desired event date?
-
-Always try to reduce word count. Ex: Check with the SE as they have access to additional clusters.
+Check with the SE as they have access to additional clusters.
 
 .. note::
 

@@ -128,7 +128,7 @@ Single Node reservations
      - 10.38.x.139
      - 10.38.x.203
      - Auto AD
-     - Windows DOmain Controller
+     - Windows Domain Controller
    * - 10.38.x.12
      - 10.38.x.76
      - 10.38.x.140

@@ -57,7 +57,7 @@ The purpose of this living document is to provide a complete reference for SEs a
 What are Bootcamps
 ++++++++++++++++++++
 
-Bootcamps are the way we provide hosted hands on lab delivered from our HPOC environments. Bootcamps are consumed by external parties (customers & partners) via remote desktop sessions which are proctored by SEs virtually or onsite with the customers. The deployment and confiugration of the clusters with associated products have been incorporated into Runbooks. All of the hands on lab guides are staged online via templates hosted on the Nutanix Bootcamp website.
+Bootcamps are the way we provide hosted hands on lab experience delivered from our HPOC environments. Bootcamps are consumed by external parties (customers & partners) via remote desktop sessions which are proctored by SEs virtually or onsite with the attendees. The deployment and confiugration of the clusters with associated products have been incorporated into Runbooks. All of the hands on lab guides are staged online via templates hosted on the Nutanix Bootcamp website.
 
 Bootcamp Format
 +++++++++++++++

@@ -10,4 +10,4 @@ If you haven't delivered the chosen bootcamp for a while, we strongly suggest ta
 
 .. figure:: images/practice.jpg
 
-Bootcamps are periodically updated and aligned to major releases and capabilities. Please join the `#technology-bootcamps <slack://channel?id=C0RAC0CHX&team=T0252CLM8>`_ in Slack as this is one of the main channels we use to announce Bootcamps Updates.
+Bootcamps are periodically updated and aligned to major releases and capabilities. Please join the `#technology-bootcamps <slack://channel?id=C0RAC0CHX&team=T0252CLM8>`_ channel in Slack as this is one of the main channels we use to announce Bootcamps updates.
