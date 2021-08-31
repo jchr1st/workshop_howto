@@ -32,7 +32,7 @@ Login to: https://console.nutanix.com/x/labs
   :widths: 20 20 20
   :header-rows: 1
 
-  * - User
+  * - Access From
     - Type
     - Credentials
   * - Nutanix 
@@ -41,10 +41,6 @@ Login to: https://console.nutanix.com/x/labs
   * - Prospect, Customer, Partner
     - External 
     - Lab Access User Credentials
-
-
-Nutanix Employees - Use your **NUTANIXDC** credentials
-Non-Employees - Use **Lab Access User** Credentials
 
 Parallels VDI
 .............
@@ -55,8 +51,15 @@ PHX Based Clusters Login to: https://xld-uswest1.nutanix.com
 
 RTP Based Clusters Login to: https://xld-useast1.nutanix.com
 
-Nutanix Employees - Use your **NUTANIXDC** credentials
-Non-Employees - Use **Lab Access User** Credentials
+  * - Access From
+    - Type
+    - Credentials
+  * - Nutanix 
+    - Internal
+    - NUTANIXDC
+  * - Prospect, Customer, Partner
+    - External 
+    - Lab Access User Credentials
 
 The WIN10 desktop can be accessed through a locally installed Parallels client or via HTML5.
 
