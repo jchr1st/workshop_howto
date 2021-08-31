@@ -51,6 +51,10 @@ PHX Based Clusters Login to: https://xld-uswest1.nutanix.com
 
 RTP Based Clusters Login to: https://xld-useast1.nutanix.com
 
+.. list-table::
+  :widths: 20 20 20
+  :header-rows: 1
+
   * - Access From
     - Type
     - Credentials
