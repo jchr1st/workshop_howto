@@ -9,7 +9,7 @@ Nutanix employees are able to access the Hosted POC environment with the `corpor
 Partners and customers can gain access to the Hosted POC environment using the following:
 
 Lab Access User Credentials
-+++++++++++++++++++++++++++
+...........................
 
 PHX Based Clusters:
 
