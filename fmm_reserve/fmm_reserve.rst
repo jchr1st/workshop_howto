@@ -68,7 +68,7 @@ Check with the SE as they have access to additional clusters.
 
 .. note::
 
-    PHX-SNC (Phoenix Single Node Cluster Pool) is often very open and we’ve recently rolled out the option for SEs to stage some bootcamps using Single Node Clusters in the staging scripts. Currently there are ~75 single node clusters available in the pool and these are often more available than four node clusters.
+    PHX-SNC (Phoenix Single Node Cluster Pool) is often very open and we’ve recently rolled out the option for SEs to stage some Bootcamps using Single Node Clusters in the staging scripts. Currently there are ~75 single node clusters available in the pool and these are often more available than four node clusters.
     **These will not work for all Bootcamps. Consult with the SE first**
 
 Alternatively, try emailing hostedpoc@nutanix.com to see if they have any clusters set aside that are available for your event date.
@@ -84,4 +84,4 @@ Printable Workbooks funded by corporate and ordered by Field Marketing: `Interna
 Need Help?
 ++++++++++++
 
-If you have any questions or issues on the day of the bootcamp, please reach out to the OE team at hostedpoc@nutanix.com or #rx-and-hpoc on slack. You can also ask in the `#technology-bootcamps <slack://channel?id=C0RAC0CHX&team=T0252CLM8>`_ channel on slack.
+If you have any questions or issues on the day of the Bootcamp, please reach out to the OE team at hostedpoc@nutanix.com or `#rx-and-hpoc <https://nutanix.slack.com/archives/C0JSE04TA`_ on slack. You can also ask in the `#technology-bootcamps <slack://channel?id=C0RAC0CHX&team=T0252CLM8>`_ channel in slack.
