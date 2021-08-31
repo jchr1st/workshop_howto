@@ -54,7 +54,7 @@ The purpose of this living document is to provide a complete reference for Sales
     Feedback and suggestions can be submitted to bootcamps@nutanix.com
 
 What are Bootcamps
-++++++++++++++++++++
+++++++++++++++++++
 
 Bootcamps are the way we provide hosted hands on lab experience delivered from our HPOC environments. Bootcamps are consumed by external parties (prospects, customers & partners) via remote desktop sessions which are proctored by SEs virtually or onsite with the attendees. The deployment and confiugration of the clusters with associated products have been incorporated into Runbooks. All of the hands on lab guides are staged online via templates hosted on the Nutanix Bootcamp website.
 
@@ -66,6 +66,7 @@ Bootcamps are run as a 4-5 hour in-person event with lunch and swag included. Th
 Do you want to run a Technology Bootcamp on Test Drive?
 
 Then check out this `Wiki <https://confluence.eng.nutanix.com:8443/display/TDP/Bootcamps+on+Test+Drive>`_ guide on what to consider and how to do so. A few key points to note:
+
   - Test Drive can be used for running a virtual bootcamp, however it is not a direct replacement for Bootcamps hosted on HPOC, but rather compliments the existing program.
   - Test Drive is not a panacea certain bootcamps/products/solutions cannot be run on Test Drive, use the the following decision chart in order to choose the appropriate platform for your requirement.
 
