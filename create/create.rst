@@ -11,7 +11,7 @@ Creating A Workshop from a Template
 
 To start you need to know which Bootcamp you are running, please refer to :ref:`available`.
 
-#. In a browser, login to https://bootcamps.nutanix.handsonworkshops.com/profiles/login/ using OKTA.
+#. In a browser, login to `Bootcamps <https://bootcamps.nutanix.handsonworkshops.com/profiles/login/>`_ using OKTA.
 
    .. note::
 
