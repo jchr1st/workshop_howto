@@ -11,13 +11,15 @@ Partners and customers can gain access to the Hosted POC environment using the f
 Lab Access User Credentials
 +++++++++++++++++++++++++++
 
-PHX Based Clusters: 
-  - **Username:** PHX-POC###-User## (User01 through User20. Ex. PHX-POC123-User15)
-  - **Password:** *<PROVIDED BY INSTRUCTOR>*
+PHX Based Clusters:
+
+  - Username: PHX-POC###-User## (User01 through User20. Ex. PHX-POC123-User15)
+  - Password: *<PROVIDED BY INSTRUCTOR>*
 
 RTP Based Clusters:
-  - **Username:** RTP-POC###-User## (User01 through User20. Ex. RTP-POC123-User15)
-  - **Password:** *<PROVIDED BY INSTRUCTOR>*
+
+  - Username: RTP-POC-User (User01 through User20. Ex. RTP-POC123-User15)
+  - Password: *<PROVIDED BY INSTRUCTOR>*
 
 Frame VDI
 .........
@@ -26,8 +28,8 @@ Users can also access the HPOC through a Frame on AHV session.
 
 Login to: https://console.nutanix.com/x/labs
 
-**Nutanix Employees** - Use your **NUTANIXDC** credentials
-**Non-Employees** - Use **Lab Access User** Credentials
+Nutanix Employees - Use your **NUTANIXDC** credentials
+Non-Employees - Use **Lab Access User** Credentials
 
 Parallels VDI
 .............
@@ -38,10 +40,10 @@ PHX Based Clusters Login to: https://xld-uswest1.nutanix.com
 
 RTP Based Clusters Login to: https://xld-useast1.nutanix.com
 
-**Nutanix Employees** - Use your **NUTANIXDC** credentials
-**Non-Employees** - Use **Lab Access User** Credentials
+Nutanix Employees - Use your **NUTANIXDC** credentials
+Non-Employees - Use **Lab Access User** Credentials
 
-The **WIN10** desktop can be accessed through a locally installed Parallels client or via HTML5.
+The WIN10 desktop can be accessed through a locally installed Parallels client or via HTML5.
 
 .. figure:: images/1.png
 

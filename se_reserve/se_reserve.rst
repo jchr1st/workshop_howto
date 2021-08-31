@@ -1,7 +1,7 @@
 .. _se_reserve:
 
 ------------------------
-Reserving A HPOC Cluster
+Reserving an HPOC Cluster
 ------------------------
 
 When reserving a cluster for your Bootcamp, ensure you are creating the reservation using the correct Hypervisor and AOS version.

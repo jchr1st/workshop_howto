@@ -8,7 +8,7 @@ Each cluster has a dedicated domain controller VM, called AUTOAD, responsible fo
 
 
 .. list-table::
-   :widths: 15 11 20
+   :widths: 15 10 20
    :header-rows: 1
 
    * - Group

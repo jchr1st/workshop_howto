@@ -8,15 +8,18 @@ Turn off distracting notifications, close other applications. In particular, clo
 
     - Pro Tip: Mac’s have Do Not Disturb for Notifications!
 
-If you are sharing out your desktop, make sure to have it organized and with a work appropriate desktop background (i.e., not millions of icons with customer names in them)
-Multi-monitor configurations are the most productive for completing hands on labs, as they allow you to view labs & Prism/vSphere/SSH/etc. simultaneously
+If you are sharing out your desktop, make sure to have it organized and with a work appropriate desktop background (i.e., not millions of icons with customer names in them).
+
+Multi-monitor configurations are the most productive for completing hands on labs, as they allow you to view labs & Prism/vSphere/SSH/etc. simultaneously.
+
 Using a secondary device such as an iPad or Android tablet to open the lab guides on a dedicated screen is helpful, BUT you occasionally will want to copy/paste from the lab guides
+
 If you have a tablet device and no second monitor, consider one of the software solutions below to use your tablet as a secondary monitor:
 
     - Duet (www.duetdisplay.com) – Supports Windows/macOS/iPad/Android/Chromebook
     - iDisplay (www.getidisplay.com) – Supports Windows/macOS/iPad/Android
 
-*No spare monitor or tablet? No problem! Follow the suggestions below to increase single monitor productivity:*
+No spare monitor or tablet? No problem! Follow the suggestions below to increase single monitor productivity:
 
 Windows 10
 

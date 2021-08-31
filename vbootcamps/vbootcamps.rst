@@ -23,7 +23,7 @@ This list of Bootcamps should provide the best for all prospects with little or 
 Follow on Bootcamps 
 ...................
 
-Recommend that you the SE are very familiar with the Bootcamp in advance, and have a good understanding of your Audience. Ideally the attendees will have had exposure to Nutanix or recently completed a Bootcamp from the previous list.
+Recommend that you the SE are very familiar with the Bootcamp in advance, and have a good understanding of your audience. Ideally the attendees will have had exposure to Nutanix or recently completed a Bootcamp from the previous list.
 
 - API Bootcamp *make sure you understand your audience*
 - Calm Bootcamp *make sure you understand your audience*
