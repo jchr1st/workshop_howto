@@ -28,6 +28,21 @@ Users can also access the HPOC through a Frame on AHV session.
 
 Login to: https://console.nutanix.com/x/labs
 
+.. list-table::
+  :widths: 20 20 20
+  :header-rows: 1
+
+  * - User
+    - Type
+    - Credentials
+  * - Nutanix 
+    - Internal
+    - NUTANIXDC
+  * - Prospect, Customer, Partner
+    - External 
+    - Lab Access User Credentials
+
+
 Nutanix Employees - Use your **NUTANIXDC** credentials
 Non-Employees - Use **Lab Access User** Credentials
 
