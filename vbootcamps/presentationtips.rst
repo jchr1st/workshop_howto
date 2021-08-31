@@ -17,7 +17,7 @@ Leverage a Whiteboard (physical or virtual) - If you have a whiteboard at home, 
 
             - https://www.bestbuy.com/site/wacom-intuos-wireless-graphic-tablet-small-with-3-bonus-software-included-black/6196634.p?skuId=6196634 – a small learning curve on using it
 
-Offer to go through the Bootcamp’s exercises step by step so users can see what you are doing and follow along.
+Offer to go through the Bootcamp’s exercises step by step so users can see what to do and follow along.
 
 To keep the audience engaged ask questions. Offer assistance to anyone needing help with any step as you go through the Bootcamp’s exercises.
 
