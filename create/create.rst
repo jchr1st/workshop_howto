@@ -4,12 +4,12 @@
 Create Workshop From Template
 -----------------------------
 
-The Nutanix Hands on Workshops platform provides multiple Templates allowing you to create event specific Workshops or Bootcamps quickly and easily. Creating the event specific instance from a Template allows you to customize messaging and track granular statistics for your event.
+The Nutanix Hands on Workshops platform provides multiple Templates allowing you to create event specific Bootcamps quickly and easily. Creating the event specific instance from a Template allows you to customize messaging and track granular statistics for your event.
 
 Creating A Workshop from a Template
 +++++++++++++++++++++++++++++++++++
 
-To start you need to know which Workshop or Bootcamp you are running (*See First Page for List of Current Bootcamps*).
+To start you need to know which Workshop or Bootcamp you are running (**).
 
 #. In a browser, login to https://bootcamps.nutanix.handsonworkshops.com/profiles/login/ using OKTA.
 
@@ -36,7 +36,7 @@ To start you need to know which Workshop or Bootcamp you are running (*See First
 #. Fill out the following fields:
 
    - **Choose a Template** - Select your desired Template
-   - **Name** - This is what will be displayed as the title of the Workshop (e.g. *Portland - May 2019 Nutanix Essentials Bootcamp*)
+   - **Name** - This is what will be displayed as the title of the Workshop (e.g. *Houston - August 2021 Nutanix Private Cloud Bootcamp*)
    - **Description** - While optional, the description allows you to provide brief context about what will be covered during the Workshop/Bootcamp or other logistical details such as address and time. **Do Not Put Passwords Here**
    - **Notes** - Optional **Do Not Put Passwords Here**
 

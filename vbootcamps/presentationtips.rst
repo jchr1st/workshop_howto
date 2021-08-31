@@ -16,9 +16,10 @@ Leverage a Whiteboard (physical or virtual) - If you have a whiteboard at home, 
 
             - https://www.bestbuy.com/site/wacom-intuos-wireless-graphic-tablet-small-with-3-bonus-software-included-black/6196634.p?skuId=6196634 – a small learning curve on using it
 
-Go through the bootcamp’s exercises - Start the bootcamp and go through step by step on each exercise so users can see what you are doing and they follow with you.
-Ask the audience questions and/or ask if anyone needs help - Make sure to ask questions to keep the audience engaged. Ask if anyone needs help with any step as you go through the bootcamp’s exercises.
-Consider downloading additional tools - Applications to consider using during the bootcamp (optional and use if it works for you)
+Go through the bootcamp’s exercises step by step on each exercise so users can see what you are doing and they follow with you.
+To keep the audience engaged ask questions. Offer assistance to anyone needing help with any step as you go through the bootcamp’s exercises.
 
-    - Krisp noise cancellation - https://krisp.ai/
-    - Sketch app - https://www.doodly.com/
+    - Applications to consider using during the bootcamp (optional and use if it works for you):
+
+        - Krisp noise cancellation - https://krisp.ai/
+        - Sketch app - https://www.doodly.com/

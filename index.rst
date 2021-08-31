@@ -9,7 +9,6 @@
   available/available
   create/create
   se_reserve/se_reserve
-  .. stage/stage [TODO: commenting this out for now, since it doesn't list anything of use. We can add workshop staging for specific workshops later]
   access/access
   network/network
   ad_scheme/ad_scheme
@@ -48,7 +47,7 @@
 Nutanix Workshops HOWTO
 -----------------------
 
-The purpose of this living document is to provide a complete reference for SEs and Field Marketing on how to properly run a Nutanix Bootcamp (or Workshop) using RX, the Hosted POC environment, and the Nutanix Hands on Workshops platform.
+The purpose of this living document is to provide a complete reference for Sales Engineers (SEs) and Field Marketing Managers (FMMs) on how to properly run a Nutanix Bootcamp using our `reservation sytem <https://rx.corp.nutanix.com/login>`_ (RX), the Hosted POC environment, and the Nutanix Hands on Workshops platform.
 
 .. note::
 
@@ -57,7 +56,7 @@ The purpose of this living document is to provide a complete reference for SEs a
 What are Bootcamps
 ++++++++++++++++++++
 
-Bootcamps are the way we provide hosted hands on lab experience delivered from our HPOC environments. Bootcamps are consumed by external parties (customers & partners) via remote desktop sessions which are proctored by SEs virtually or onsite with the attendees. The deployment and confiugration of the clusters with associated products have been incorporated into Runbooks. All of the hands on lab guides are staged online via templates hosted on the Nutanix Bootcamp website.
+Bootcamps are the way we provide hosted hands on lab experience delivered from our HPOC environments. Bootcamps are consumed by external parties (prospects, customers & partners) via remote desktop sessions which are proctored by SEs virtually or onsite with the attendees. The deployment and confiugration of the clusters with associated products have been incorporated into Runbooks. All of the hands on lab guides are staged online via templates hosted on the Nutanix Bootcamp website.
 
 Bootcamp Format
 +++++++++++++++
@@ -96,7 +95,7 @@ SE Handles:
 
   - Reserves HPOC if MKTG cluster is unavailable
   - Creates Event Specific Bootcamp from template in the Hands on Workshop platform
-  - **Takes the created digital workbook link, and sends the to attendees before the bootcamp**
+  - Takes the created digital workbook link, and sends the to attendees before the bootcamp
   - Stages the Marketing Cluster (or HPOC) with staging script.
 
 Virtual Bootcamp
@@ -116,8 +115,8 @@ SE Handles:
 
   - Reserves HPOC if MKTG cluster is unavailable
   - Creates Event Specific Bootcamp from template in the Hands on Workshop platform
-  - **Takes the created digital workbook link, and sends the to attendees before the bootcamp**
-  - Stages the Marketing Cluster (or HPOC) with staging script.
+  - Takes the created digital workbook link, and sends the to attendees before the bootcamp
+  - Stages the Marketing Cluster (or HPOC) with staging script
 
 Account/Partner Based Bootcamp
 ..............................
@@ -138,91 +137,6 @@ SE Handles:
 
   - Reserves HPOC if MKTG cluster is unavailable
   - Creates Event Specific Bootcamp from template in the Hands on Workshop platform
-  - **Takes the created digital workbook link, and sends the to attendees before the bootcamp**
-  - Stages the Marketing Cluster (or HPOC) with staging script.
+  - Takes the created digital workbook link, and sends the to attendees before the bootcamp
+  - Stages the Marketing Cluster (or HPOC) with staging script
 
-.. TODO:remove the following once approved
-.. Bootcamp's Release
-.. ++++++++++++++++++
-
-.. **Current Release - AOS 5.18.x
-
-.. list-table::
-..   :widths: 40 20 40
-..   :header-rows: 1
-
-..   * - Bootcamp Name
-..     - Audience Type
-..     - Products & Description
-..   * - **Private Cloud: AOS and AHV Bootcamp**
-..     - Beginner/ Net-New
-..     - A customer facing introduction to Nutanix Core Product (Core HCI, and Prism Element).
-..   * - **Enterprise Private Cloud Bootcamp**
-..     - Beginner/ Net-New
-..     - A Day in the life with AOS, Files, Flow, Calm, and Prism Ops.
-..   * - **Databases: Era with MSSQL Bootcamp**
-..     - Advanced/ Customers & Prospects
-..     - Using Era to deploy and manage MS Sql DBs.
-..   * - **Databases: Era with Oracle Bootcamp**
-..     - Advanced/ Customers & Prospects
-..     - Using Era to deploy and manage Oracle DBs.
-..   * - **Databases: Era with Postgres Bootcamp**
-..     - Advanced/ Customers & Prospects
-..     - Using Era to deploy and manage Postgres DBs.
-..   * - **End User Computing: Frame on AHV Bootcamp**
-..     - Advanced/ Customers & Prospects
-..     - Using Frame with Nutanix AHV, and also leveraging Files, Flow, and Prism Ops.
-..   * - **End User Computing: Citrix on AHV Bootcamp**
-..     - Advanced/ Customers & Prospects
-..     - Using Citrix with Nutanix AHV, and also leveraging Files, Flow, and Prism Ops.
-..   * - **Private Cloud: Consolidated Storage Bootcamp**
-..     - Advanced/ Customers & Prospects
-..     - Using Files, File Analytics, and Objects with a *Bonus* lab using Peer Software.
-..   * - **Private Cloud: Calm IaaS Bootcamp**
-..     - Advanced/ Customers & Prospects
-..     - A customer facing bootcamp focusing on using Calm (Single VM Linux App, Single VM Windows App, & Day 2 Activities).
-..   * - **Cloud Native: API Bootcamp**
-..     - Advanced/ Customers & Prospects
-..     - Using Nutanix APIs for Cluster & VM management tasks.
-..   * - **Private Cloud: Splunk on AHV with Objects Bootcamp**
-..     - Advanced/ Customers & Prospects
-..     - Deploying Splunk and using with Objects.
-..   * - **Hycu Add-On**
-..     - Customers & Prospects
-..     - Using Hycu with Nutanix.
-..   * - **Veeam Add-On**
-..     - Customers & Prospects
-..     - Using Veeam with Nutanix.
-
-.. note::
-
-..     For a more in-depth look at content including target audience and labs, view the content guide: `Bootcamp Content Guide & One Pagers <https://docs.google.com/document/d/1FzC2GX61nBP17qY6Dw-4d583nx6BPTsbO_eRszXIbmc/edit?usp=sharing>`_
-
-
-.. Bootcamp Materials & Resources
-.. ++++++++++++++++++++++++++++++
-
-.. PDF version of printable workbooks (supplemental to the digital workbook) and customer-facing powerpoints: https://ntnx.how/PresentationDecks
-
-.. SE Wiki Page for an In-depth look at Bootcamps [*Must be connected to VPN*]: `SE Wiki Page Bootcamps <https://confluence.eng.nutanix.com:8443/display/SEW/Bootcamps>`_
-
-.. Internal Bootcamp Content Guide: `Bootcamp Content Guide & One Pagers <https://docs.google.com/document/d/1FzC2GX61nBP17qY6Dw-4d583nx6BPTsbO_eRszXIbmc/edit?usp=sharing>`_
-
-.. Bootcamp Swag funded by corporate and ordered by Field Marketing: `Internal Program Store (Program Materials) <https://nutanix.jniwebshop.com/category/16/program-materials>`_
-
-.. Printable Workbooks funded by corporate and ordered by Field Marketing: `Internal Program Store (Print on Demand) <https://nutanix.jniwebshop.com/category/74/print-on-demand>`_
-.. TODO:Remove Getting help after testing
-.. Getting Help
-.. ++++++++++++
-
-.. Have a question related to lab content or staging?
-
-.. Come ask in `#technology-bootcamps <slack://channel?id=C0RAC0CHX&team=T0252CLM8>`_ or `#hands-on-workshops <slack://channel?id=C8WLPRTB3&team=T0252CLM8>`_.
-
-.. Have a question related to RX, HPOC (including initial cluster Foundation)?
-
-.. Come ask in `#rx-and-hpoc <slack://channel?id=C0JSE04TA&team=T0252CLM8>`_.
-
-.. Have a question related to Frame, Parallels VDI, or Pulse VPN access?
-
-.. Come ask in `#x-labs <slack://channel?id=CF6GRQ4TU&team=T0252CLM8>`_.

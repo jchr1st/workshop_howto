@@ -15,7 +15,7 @@ Reserving A Cluster
 
 When reserving a cluster for your Bootcamp, ensure you are creating the reservation using the correct Hypervisor and AOS version.
 
-- Click **Reserve a Cluster** > **Nutanix Hosted** [TODO: Combine things that are multi-step. Ex: **Reserve a Cluster > Nutanix Hosted**]
+- Click **Reserve a Cluster** > **Nutanix Hosted**
 
 .. figure:: images/reserver_cluster.png
 
@@ -56,9 +56,9 @@ When reserving a cluster for your Bootcamp, ensure you are creating the reservat
 
 - Click **Confirm** to complete the reservation.
 
-Once the cluster is reserved, SE and FMM should be getting a confirmation email, if the FMM shared the reservation. That email contains important reservation and access details for the cluster.
+Once the cluster is reserved, SE and FMM will receive a confirmation email, if the FMM shared the reservation. That email contains important reservation and access details for the cluster.
 
-The SE leading the boot camp is responsible for verifying that the foundation succeeded and the cluster is ready for the event. This should be done the **DAY BEFORE** the event so that should there be any complications there is time for the corporate SE or TME teams to resolve.
+The SE leading the boot camp is responsible for verifying that the foundation succeeded and the cluster is ready for the event. This should be done the **DAY BEFORE** the event so that should there be any complications there is time for the Outcome Engineering (OE) or Technical Marketing Engeering (TME) teams to resolve.
 
 
 What If No Marketing Clusters Are Available?
@@ -84,4 +84,4 @@ Printable Workbooks funded by corporate and ordered by Field Marketing: `Interna
 Need Help?
 ++++++++++++
 
-If you have any questions or issues on the day of the bootcamp, please reach out to the corporate SE team at hostedpoc@nutanix.com or #rx-and-hpoc on slack. You can also ask in the #technology-bootcamps channel on slack.
+If you have any questions or issues on the day of the bootcamp, please reach out to the OE team at hostedpoc@nutanix.com or #rx-and-hpoc on slack. You can also ask in the `#technology-bootcamps <slack://channel?id=C0RAC0CHX&team=T0252CLM8>`_ channel on slack.
