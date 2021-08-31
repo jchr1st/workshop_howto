@@ -56,12 +56,12 @@ The purpose of this living document is to provide a complete reference for Sales
 What are Bootcamps
 ++++++++++++++++++
 
-Bootcamps are the way we provide hosted hands on lab experience delivered from our HPOC environments. Bootcamps are consumed by external parties (prospects, customers & partners) via remote desktop sessions which are proctored by SEs virtually or onsite with the attendees. The deployment and confiugration of the clusters with associated products have been incorporated into Runbooks. All of the hands on lab guides are staged online via templates hosted on the Nutanix Bootcamp website.
+Bootcamps are the way we provide a hosted hands on lab experience delivered using our Hosted Proof Of Concept (HPOC) environments. Bootcamps are consumed by external parties (prospects, customers & partners) via remote desktop sessions which are proctored by SEs virtually or onsite with the attendees. The deployment and confiugration of the clusters with associated products have been incorporated into Runbooks. All of the hands on lab guides are staged online via templates hosted on the Nutanix Bootcamp website.
 
 Bootcamp Format
 +++++++++++++++
 
-Bootcamps are run as a 4-5 hour in-person event with lunch and swag included. The overall flow includes a brief presentation that provides a high-level overview of Nutanix and covers features in depth. Presentations are interspersed with demos and hands-on exercises on a live cluster to give participants a feel for the Nutanix environment. Attendees will use an online workbook (created and sent by the SE) to go through the exercises. Printed supplemental workbooks are also provided (ordered by FMMs) so that the attendees can annotate and make notes. The powerpoint slides and demos are arranged to be aligned chronologically with a customer’s Nutanix experience.
+Bootcamps are run as a 4-5 hour in-person event with lunch and swag included. The overall flow includes a brief presentation that provides a high-level overview of Nutanix and covers features in depth. Presentations are interspersed with demos and hands-on exercises on a live cluster to give participants a feel for the Nutanix environment. Attendees will use an online workbook (created and sent by the SE) to go through the exercises. Printed supplemental workbooks are also provided (ordered by FMMs) so that the attendees can annotate and make notes. The Powerpoint slides and demos are arranged to be aligned chronologically with a customer’s Nutanix experience.
 
 Do you want to run a Technology Bootcamp on Test Drive?
 
@@ -87,7 +87,7 @@ FMM Handles:
   - Creates Registration page
   - sends event emails
   - Salesforce tracking
-  - Reserves the Marketing Cluster
+  - Reserves the Marketing (MKTG) Cluster
   - Location & Food
   - Swag
   - Printed Materials (If Requested/Needed)
@@ -97,7 +97,7 @@ SE Handles:
   - Reserves HPOC if MKTG cluster is unavailable
   - Creates Event Specific Bootcamp from template in the Hands on Workshop platform
   - Takes the created digital workbook link, and sends the to attendees before the bootcamp
-  - Stages the Marketing Cluster (or HPOC) with staging script.
+  - Stages the MKTG Cluster (or HPOC) with staging script.
 
 Virtual Bootcamp
 ................
@@ -109,7 +109,7 @@ FMM Handles:
   - Creates Registration page
   - sends event emails
   - Salesforce tracking
-  - Reserves the Marketing Cluster
+  - Reserves the MKTG Cluster
   - Swag
 
 SE Handles:
@@ -117,7 +117,7 @@ SE Handles:
   - Reserves HPOC if MKTG cluster is unavailable
   - Creates Event Specific Bootcamp from template in the Hands on Workshop platform
   - Takes the created digital workbook link, and sends the to attendees before the bootcamp
-  - Stages the Marketing Cluster (or HPOC) with staging script
+  - Stages the MKTG Cluster (or HPOC) with staging script
 
 Account/Partner Based Bootcamp
 ..............................
@@ -129,7 +129,7 @@ FMM Handles:
   - Creates Registration page
   - Sends event emails
   - Salesforce tracking
-  - Reserves the Marketing Cluster
+  - Reserves the MKTG Cluster
   - Location (if not done onsite) & Food (If not handled by Acct/Channel team)
   - Swag
   - Printed Materials (If Requested/Needed)
@@ -139,5 +139,5 @@ SE Handles:
   - Reserves HPOC if MKTG cluster is unavailable
   - Creates Event Specific Bootcamp from template in the Hands on Workshop platform
   - Takes the created digital workbook link, and sends the to attendees before the bootcamp
-  - Stages the Marketing Cluster (or HPOC) with staging script
+  - Stages the MKTG Cluster (or HPOC) with staging script
 
