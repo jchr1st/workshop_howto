@@ -5,7 +5,18 @@ Available Customer Bootcamps
 -----------------------------
 
 The following table contains the template names and associated Runbooks, executed in RX to successfully deliver Bootcamps.
-There are some Bootcamps that require additional stasteps outside of the Runbooks. The Bootcamps that require additional steps are identified in *italics*. Scroll to the bottom of the table for more information.
+There are some Bootcamps that require additional steps outside of the Runbooks. The Bootcamps that require additional steps are identified in *italics*. Scroll to the bottom of the table for more information.
+
+To successfully deliver a Bootcamp, the creation is a two step process.
+
+  #. Create a Bootcamp from a Template
+  #. Deploy a Cluster from a Runbook
+
+Make a note the Bootcamp you would like to deliver in the first column & the Runbook name in the second column.
+
+To help navigation, use the following links.
+
+:ref:`create`               :ref:`se_reserve`
 
 .. list-table::
   :widths: 40 40 20 40
@@ -50,7 +61,7 @@ There are some Bootcamps that require additional stasteps outside of the Runbook
   * - Private Cloud: Calm IaaS Bootcamp
     - Calm IaaS
     - Advanced/ Customers & Prospects
-    - A customer facing bootcamp focusing on using Calm (Single VM Linux App, Single VM Windows App, & Day 2 Activities).
+    - A customer facing Bootcamp focusing on using Calm (Single VM Linux App, Single VM Windows App, & Day 2 Activities).
   * - Cloud Native: API Bootcamp
     -  
     - Advanced/ Customers & Prospects
@@ -70,27 +81,27 @@ There are some Bootcamps that require additional stasteps outside of the Runbook
   * - Private Cloud: Flow Bootcamp
     - Flow Bootcamp
     - Advanced/ Customers & Prospects
-    - A customer facing bootcamp focusing on using Flow to create network security policies in Prism Central.
+    - A customer facing Bootcamp focusing on using Flow to create network security policies in Prism Central.
   * - Cloud Native: Containerizing Apps & CI/CD
     - Containerizing Apps & CI/CD
     - Advanced/ Customers & Prospects
-    - A customer facing bootcamp focusing on using Calm as part of a CI/CD pipeline.
+    - A customer facing Bootcamp focusing on using Calm as part of a CI/CD pipeline.
   * - Private Cloud: Prism Ultimate Bootcamp
     - Private Cloud: Prism Ultimate Bootcamp
     - Advanced/ Customers & Prospects
-    - A customer facing bootcamp showcasing Prism Ultimate capabilities. Comprising of Capcity Planning, X-Play, Application Monitoring and Beam. 
+    - A customer facing Bootcamp showcasing Prism Ultimate capabilities. Comprising of Capcity Planning, X-Play, Application Monitoring and Beam. 
   * - PACE: Era Bootcamp
     - PACE: Era Workshops
     - Advanced/ Customers & Prospects
-    - A customer facing bootcamp focusing on how to deploy Era within their environment and manage Microsoft SQL Server & Oracle databases.
+    - A customer facing Bootcamp focusing on how to deploy Era within their environment and manage Microsoft SQL Server & Oracle databases.
   * - Databases: Era Combo Bootcamp
     - Era All
     - Advanced/ Customers & Prospects
-    - A customer facing bootcamp focusing on managing Micosoft SQL Server & Oracle with Era.
+    - A customer facing Bootcamp focusing on managing Micosoft SQL Server & Oracle with Era.
   * - Cloud Native: Apps on Nutanix
     - Containerizing Apps & CI/CD
     - Advanced/ Customers & Prospects
-    - A customer facing bootcamp focusing on using Calm for containerized application deployment.
+    - A customer facing Bootcamp focusing on using Calm for containerized application deployment.
 
 
 *Requires additional manual steps which are detailed in the Bootcamp guides.  Please allow time to complete the additional steps before scheduling a session with a partner or customer.

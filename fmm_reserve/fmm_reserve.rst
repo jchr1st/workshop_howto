@@ -15,13 +15,13 @@ Reserving A Cluster
 
 When reserving a cluster for your Bootcamp, ensure you are creating the reservation using the correct Hypervisor and AOS version.
 
-- Click **Reserve a Cluster** > **Nutanix Hosted**
+#. Click **Reserve a Cluster** > **Nutanix Hosted**
 
 .. figure:: images/reserver_cluster.png
 
-- Specify "From" and "To" dates: 2 days total (day before and day of bootcamp).
-- Make sure **Mktg-PHX** is selected in the dropdown
-- Click **Confirm**
+#. Specify "From" and "To" dates: 2 days total (day before and day of bootcamp).
+#. Make sure **Mktg-PHX** is selected in the dropdown
+#. Click **Confirm**
 
 .. figure:: images/reserve_dates.png
 
@@ -31,30 +31,30 @@ When reserving a cluster for your Bootcamp, ensure you are creating the reservat
 
     These will be the **NX-3060-G6 or G7** Clusters
 
-- For **Select Reason** choose **Staged Bootcamp and Training**. (enter any other relevant information in the Notes field).
-- Share reservation: enter the SE's email address so that they get access to the reservation too and is able to make any changes as needed. (NOTE: Ensure you click the **Share +** character after entering the SE email in the form field)
-- Click on **Next** to get to the next screen.
+#. For **Select Reason** choose **Staged Bootcamp and Training**. (enter any other relevant information in the Notes field).
+#. Share reservation: enter the SE's email address so that they get access to the reservation too and is able to make any changes as needed. (NOTE: Ensure you click the **Share +** character after entering the SE email in the form field)
+#. Click on **Next** to get to the next screen.
 
 .. figure:: images/reserve_reason.png
 
-- Enter the SEs name and Email on the **Customer Information** Screen
-- Click on **Next** to get to the next screen.
+#. Enter the SEs name and Email on the **Customer Information** Screen
+#. Click on **Next** to get to the next screen.
 
 .. figure:: images/reserve_customer_name.png
 
-- Select **Use a Runbook**
-- Leave custom password field blank or enter a custom password if desired.
+#. Select **Use a Runbook**
+#. Leave custom password field blank or enter a custom password if desired.
 
 .. note::
 
   Warning: if entering a custom passwords note that all passwords get stored in clear text in a database so don't use any real passwords).
 
-- **Select** the Runbook for the Bootcamp you are running.
-- Click on **Next** to get to the next screen.
+#. **Select** the Runbook for the Bootcamp you are running.
+#. Click on **Next** to get to the next screen.
 
 .. figure:: images/reserve_runbook.png
 
-- Click **Confirm** to complete the reservation.
+#. Click **Confirm** to complete the reservation.
 
 Once the cluster is reserved, SE and FMM will receive a confirmation email, if the FMM shared the reservation. That email contains important reservation and access details for the cluster.
 
