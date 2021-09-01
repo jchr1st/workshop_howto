@@ -42,10 +42,6 @@ To help navigation, use the following links.
     - Era with Oracle
     - Advanced/ Customers & Prospects
     - Using Era to deploy and manage Oracle DBs
-  .. * - Databases: Era with Postgres Bootcamp
-  ..   -  
-  ..   - Advanced/ Customers & Prospects
-  ..   - Using Era to deploy and manage Postgres DBs.
   * - End User Computing: Frame on AHV Bootcamp
     - Frame
     - Advanced/ Customers & Prospects
