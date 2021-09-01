@@ -18,7 +18,7 @@ Prep before - Familiarize yourself with Zoom, whiteboarding tools, and dry run w
 Send personalized emails to attendees - The day before the event send out personalized emails to every attendee with their login information. 
     
 Email 1
-.......
+^^^^^^^
 
 Hi **[Attendee First Name]**,
 
