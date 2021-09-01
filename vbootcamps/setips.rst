@@ -22,7 +22,7 @@ Send personalized emails to attendees - The day before the event send out person
   <strong><font color="purple">Email 1</font></strong>
 
 
-.. document:: images/Day_Before_Mail_Merge.docx
+.. link:: images/Day_Before_Mail_Merge.docx
 
 Hi **[Attendee First Name]**,
 
