@@ -16,9 +16,13 @@ Prep before - Familiarize yourself with Zoom, whiteboarding tools, and dry run w
     - Day before, walk through the online guide to ensure everything is working properly
 
 Send personalized emails to attendees - The day before the event send out personalized emails to every attendee with their login information. 
-    
-Email 1
-^^^^^^^
+
+.. raw:: html
+
+  <strong><font color="purple">Email 1</font></strong>    
+
+
+.. figure:: images/Day_Before_Mail_Merge.docx
 
 Hi **[Attendee First Name]**,
 
