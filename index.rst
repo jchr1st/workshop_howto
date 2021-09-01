@@ -53,7 +53,7 @@ The purpose of this living document is to provide a complete reference for Sales
 
     Feedback and suggestions can be submitted to bootcamps@nutanix.com
 
-What are Bootcamps
+What are Bootcamps?
 ++++++++++++++++++
 
 Bootcamps are the way we provide a hosted hands on lab experience delivered using our Hosted Proof Of Concept (HPOC) environments. Bootcamps are consumed by external parties (prospects, customers & partners) via remote desktop sessions which are proctored by SEs virtually or onsite with the attendees. The deployment and confiugration of the clusters with associated products have been incorporated into Runbooks. All of the hands on lab guides are staged online via templates hosted on the Nutanix Bootcamp website.
@@ -87,17 +87,17 @@ FMM Handles:
   - Creates Registration page
   - sends event emails
   - Salesforce tracking
-  - Reserves the Marketing (MKTG) Cluster
+  - Reserves the Marketing Cluster
   - Location & Food
   - Swag
   - Printed Materials (If Requested/Needed)
 
 SE Handles:
 
-  - Reserves HPOC if MKTG cluster is unavailable
+  - Reserves HPOC if Marketing cluster is unavailable
   - Creates Event Specific Bootcamp from template in the Hands on Workshop platform
   - Takes the created digital workbook link, and sends the to attendees before the bootcamp
-  - Stages the MKTG Cluster (or HPOC) with staging script.
+  - Stages the Marketing Cluster (or HPOC) with staging script.
 
 Virtual Bootcamp
 ................
@@ -109,15 +109,15 @@ FMM Handles:
   - Creates Registration page
   - sends event emails
   - Salesforce tracking
-  - Reserves the MKTG Cluster
+  - Reserves the Marketing Cluster
   - Swag
 
 SE Handles:
 
-  - Reserves HPOC if MKTG cluster is unavailable
+  - Reserves HPOC if Marketing cluster is unavailable
   - Creates Event Specific Bootcamp from template in the Hands on Workshop platform
   - Takes the created digital workbook link, and sends the to attendees before the bootcamp
-  - Stages the MKTG Cluster (or HPOC) with staging script
+  - Stages the Marketing Cluster (or HPOC) with staging script
 
 Account/Partner Based Bootcamp
 ..............................
@@ -129,15 +129,15 @@ FMM Handles:
   - Creates Registration page
   - Sends event emails
   - Salesforce tracking
-  - Reserves the MKTG Cluster
+  - Reserves the Marketing Cluster
   - Location (if not done onsite) & Food (If not handled by Acct/Channel team)
   - Swag
   - Printed Materials (If Requested/Needed)
 
 SE Handles:
 
-  - Reserves HPOC if MKTG cluster is unavailable
+  - Reserves HPOC if Marketing cluster is unavailable
   - Creates Event Specific Bootcamp from template in the Hands on Workshop platform
   - Takes the created digital workbook link, and sends the to attendees before the bootcamp
-  - Stages the MKTG Cluster (or HPOC) with staging script
+  - Stages the Marketing Cluster (or HPOC) with staging script
 

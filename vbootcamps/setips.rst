@@ -7,7 +7,7 @@ Plan 1-2 months ahead – Build out a virtual bootcamp calendar with your Field 
 
     - Work with your FMM to publish and spread the event schedule to all prospects, customers and partners
 
-Ensure that you have the cluster at least 24 hours prior to the bootcamp event - Your Field Marketing Manager will reserve a MKTG cluster if available.
+Ensure that you have the cluster at least 24 hours prior to the bootcamp event - Your Field Marketing Manager will reserve a Marketing cluster if available.
 
 Prep before - Familiarize yourself with Zoom, whiteboarding tools, and dry run with the group of SEs before the event.
 

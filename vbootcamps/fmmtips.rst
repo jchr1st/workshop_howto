@@ -3,7 +3,7 @@
 FMM Planning Tips
 +++++++++++++++++
 
-Plan 1-2 months ahead – Reviewing the data of MKTG cluster reservations, we typically see a lot of availability 30-45 days out. Where possible, planning Bootcamps 45+ days in advance will help ensure the availability of cluster resources.
+Plan 1-2 months ahead – Reviewing the data of Marketing cluster reservations, we typically see a lot of availability 30-45 days out. Where possible, planning Bootcamps 45+ days in advance will help ensure the availability of cluster resources.
 
 Aim for 12-15 attendees per Bootcamp - We recommend keeping these to 12-15 attendees so that the SE can maintain a personalized discussion with attendees.
 
@@ -33,7 +33,7 @@ Reserve the cluster for 48 hours - You will need to reserve a cluster for 48 hou
 
 Keep cluster reservation open to 9pm or few hours past Bootcamp hours for attendees to work on labs offline
 
-Leverage Sales HPOC blocks if MKTG clusters are unavailable – SEs will have access to HPOC blocks other than what FMMs can see.
+Leverage Sales HPOC blocks if Marketing clusters are unavailable – SEs will have access to HPOC blocks other than what FMMs can see.
 
 Secure at least two SEs for your event - You will need to have at least one SE (or more depending on audience) on the zoom to help answer chat questions and to support the SE coordinating the bootcamp.
 

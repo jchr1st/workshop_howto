@@ -31,51 +31,51 @@ To help navigation, use the following links.
   * - Private Cloud: AOS and AHV Bootcamp
     - AOS on AHV Bootcamp
     - Beginner/ Net-New
-    - A customer facing introduction to Nutanix Core Product (Core HCI, and Prism Element).
+    - A customer facing introduction to Nutanix Core Product (Core HCI, and Prism Element)
   * - Private Cloud: Enterprise Private Cloud Bootcamp
     - Enterprise Private Cloud Bootcamp
     - Beginner/ Net-New
-    - A Day in the life with AOS, Files, Flow, Calm, and Prism Ops.
+    - A Day in the life with AOS, Files, Flow, Calm, and Prism Ops
   * - Databases: Era with MSSQL Bootcamp
     - Era with MSSQL
     - Advanced/ Customers & Prospects
-    - Using Era to deploy and manage MS Sql DBs.
+    - Using Era to deploy and manage MS Sql DBs
   * - Databases: Era with Oracle Bootcamp
     - Era with Oracle
     - Advanced/ Customers & Prospects
-    - Using Era to deploy and manage Oracle DBs.
-  * - Databases: Era with Postgres Bootcamp
-    -  
-    - Advanced/ Customers & Prospects
-    - Using Era to deploy and manage Postgres DBs.
+    - Using Era to deploy and manage Oracle DBs
+  .. * - Databases: Era with Postgres Bootcamp
+  ..   -  
+  ..   - Advanced/ Customers & Prospects
+  ..   - Using Era to deploy and manage Postgres DBs.
   * - End User Computing: Frame on AHV Bootcamp
     - Frame
     - Advanced/ Customers & Prospects
-    - Using Frame with Nutanix AHV, and also leveraging Files, Flow, and Prism Ops.
+    - Using Frame with Nutanix AHV, and also leveraging Files, Flow, and Prism Ops
   * - End User Computing: Citrix on AHV Bootcamp
     - Citrix
     - Advanced/ Customers & Prospects
-    - Using Citrix with Nutanix AHV, and also leveraging Files, Flow, and Prism Ops.
+    - Using Citrix with Nutanix AHV, and also leveraging Files, Flow, and Prism Ops
   * - Private Cloud: Consolidated Storage Bootcamp
     - Consolidated Storage
     - Advanced/ Customers & Prospects
-    - Using Files, File Analytics, and Objects with a *Bonus* lab using Peer Software.
+    - Using Files, File Analytics, and Objects with a *Bonus* lab using Peer Software
   * - Private Cloud: Calm IaaS Bootcamp
     - Calm IaaS
     - Advanced/ Customers & Prospects
-    - A customer facing Bootcamp focusing on using Calm (Single VM Linux App, Single VM Windows App, & Day 2 Activities).
+    - A customer facing Bootcamp focusing on using Calm (Single VM Linux App, Single VM Windows App, & Day 2 Activities)
   * - Cloud Native: API Bootcamp
-    -  
+    - Basic
     - Advanced/ Customers & Prospects
-    - Using Nutanix APIs for Cluster & VM management tasks.
+    - Using Nutanix APIs for Cluster & VM management tasks
   * - Private Cloud: Splunk on AHV with Objects Bootcamp
     - Private Cloud Splunk on AHV with Objects
     - Advanced/ Customers & Prospects
-    - Deploying Splunk and using with Objects.
+    - Deploying Splunk and using with Objects
   * - Private Cloud: Leap Addon
     -  *Leap Add-On Bootcamp**
     - Advanced/ Customer & Prospects
-    - Using Protection Policies within Prism Central.
+    - Using Protection Policies within Prism Central
   * - Private Cloud: Self-Service IaaS with Nutanix & ServiceNow
     - *Self-Service IaaS with Calm & ServiceNow**
     - Advanced/ Customer & Prospects
@@ -83,27 +83,27 @@ To help navigation, use the following links.
   * - Private Cloud: Flow Bootcamp
     - Flow Bootcamp
     - Advanced/ Customers & Prospects
-    - A customer facing Bootcamp focusing on using Flow to create network security policies in Prism Central.
+    - A customer facing Bootcamp focusing on using Flow to create network security policies in Prism Central
   * - Cloud Native: Containerizing Apps & CI/CD
     - Containerizing Apps & CI/CD
     - Advanced/ Customers & Prospects
-    - A customer facing Bootcamp focusing on using Calm as part of a CI/CD pipeline.
+    - A customer facing Bootcamp focusing on using Calm as part of a CI/CD pipeline
   * - Private Cloud: Prism Ultimate Bootcamp
     - Private Cloud: Prism Ultimate Bootcamp
     - Advanced/ Customers & Prospects
-    - A customer facing Bootcamp showcasing Prism Ultimate capabilities. Comprising of Capcity Planning, X-Play, Application Monitoring and Beam. 
+    - A customer facing Bootcamp showcasing Prism Ultimate capabilities. Comprising of Capacity Planning, X-Play, Application Monitoring and Beam 
   * - PACE: Era Bootcamp
     - PACE: Era Workshops
     - Advanced/ Customers & Prospects
-    - A customer facing Bootcamp focusing on how to deploy Era within their environment and manage Microsoft SQL Server & Oracle databases.
+    - A customer facing Bootcamp focusing on how to deploy Era within their environment and manage Microsoft SQL Server & Oracle databases
   * - Databases: Era Combo Bootcamp
     - Era All
     - Advanced/ Customers & Prospects
-    - A customer facing Bootcamp focusing on managing Micosoft SQL Server & Oracle with Era.
+    - A customer facing Bootcamp focusing on managing Microsoft SQL Server & Oracle with Era
   * - Cloud Native: Apps on Nutanix
     - Containerizing Apps & CI/CD
     - Advanced/ Customers & Prospects
-    - A customer facing Bootcamp focusing on using Calm for containerized application deployment.
+    - A customer facing Bootcamp focusing on using Calm for containerized application deployment
 
 
 *Requires additional manual steps which are detailed in the Bootcamp guides.  Please allow time to complete the additional steps before scheduling a session with a partner or customer.
