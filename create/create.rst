@@ -31,7 +31,7 @@ To start you need to know which Bootcamp you are running, please refer to :ref:`
 
    .. figure:: images/create_bootcamp_03.png
 
-   - If you do not have the option to Add a worshop, post a message on the `#technology-bootcamps <slack://channel?id=C0RAC0CHX&team=T0252CLM8>`_ Slack channel.
+   - If you do not have the option to Add a workshop, post a message on the `#technology-bootcamps <slack://channel?id=C0RAC0CHX&team=T0252CLM8>`_ Slack channel.
 
 #. Fill out the following fields:
 

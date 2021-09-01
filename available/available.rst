@@ -16,7 +16,9 @@ Make a note the Bootcamp you would like to deliver in the first column & the Run
 
 To help navigation, use the following links.
 
-:ref:`create`               :ref:`se_reserve`
+:ref:`create`               
+
+:ref:`se_reserve`
 
 .. list-table::
   :widths: 40 40 20 40
