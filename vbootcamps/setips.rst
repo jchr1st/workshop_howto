@@ -24,7 +24,7 @@ Send personalized emails to attendees - The day before the event send out person
 
 .. link:: images/Day_Before_Mail_Merge.docx
 
-`Day before mail merge images/Day_Before_Mail_Merge.docx`_
+`Day <before mail merge images/Day_Before_Mail_Merge.docx>`_
 
 Hi **[Attendee First Name]**,
 
