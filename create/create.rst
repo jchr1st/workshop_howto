@@ -1,4 +1,4 @@
-.. _create_bootcamp:
+.. _create:
 
 -----------------------------
 Create Workshop From Template
