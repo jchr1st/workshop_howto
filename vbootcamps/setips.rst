@@ -19,10 +19,10 @@ Send personalized emails to attendees - The day before the event send out person
 
 .. raw:: html
 
-  <strong><font color="purple">Email 1</font></strong>    
+  <strong><font color="purple">Email 1</font></strong>
 
 
-.. figure:: images/Day_Before_Mail_Merge.docx
+.. document:: images/Day_Before_Mail_Merge.docx
 
 Hi **[Attendee First Name]**,
 
