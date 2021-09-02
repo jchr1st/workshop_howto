@@ -17,14 +17,20 @@ Prep before - Familiarize yourself with Zoom, whiteboarding tools, and dry run w
 
 Send personalized emails to attendees - The day before the event send out personalized emails to every attendee with their login information. 
 
-.. raw:: html
-
-  <strong><font color="purple">Email 1</font></strong>
+To help manage the communication flow with attendees you can create your own automated email distribution lists by downloading the following example files and watching the `YouTube tutorial on Mail Merge <https://www.youtube.com/watch?v=_Efb_oMgxEs>`_.
 
 
-`Day before mail merge <https://github.com/jchr1st/workshop_howto/blob/master/vbootcamps/images/Day_Before_Mail_Merge.docx?raw=true>`_
+**Change github repo to production link and remove this line**
 
-`Day of `
+`Day before BootCamp mail merge, Word doc <https://github.com/jchr1st/workshop_howto/blob/master/vbootcamps/merge/Day_Before_Mail_Merge.docx?raw=true>`_
+
+`Day of Bootcamp mail merge, Word doc <https://github.com/jchr1st/workshop_howto/blob/master/vbootcamps/merge/Day_Of_Mail_Merge.docx?raw=true>`_
+
+`Mail merge database, Excel Spreadsheet <https://github.com/jchr1st/workshop_howto/blob/master/vbootcamps/merge/Mail_Merge_Working_DB.xlsx?raw=true>`_
+
+
+
+
 
 Hi **[Attendee First Name]**,
 

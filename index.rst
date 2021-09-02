@@ -96,13 +96,13 @@ SE Handles:
 
   - Reserves HPOC if Marketing cluster is unavailable
   - Creates Event Specific Bootcamp from template in the Hands on Workshop platform
-  - Takes the created digital workbook link, and sends the to attendees before the bootcamp
+  - Takes the created digital workbook link, and sends the to attendees before the Bootcamp
   - Stages the Marketing Cluster (or HPOC) with staging script.
 
 Virtual Bootcamp
 ................
 
-A 4-5 hour prospect or customer bootcamp that is hosted virtually over Zoom.
+A 4-5 hour prospect or customer Bootcamp that is hosted virtually over Zoom.
 
 FMM Handles:
 
@@ -116,7 +116,7 @@ SE Handles:
 
   - Reserves HPOC if Marketing cluster is unavailable
   - Creates Event Specific Bootcamp from template in the Hands on Workshop platform
-  - Takes the created digital workbook link, and sends the to attendees before the bootcamp
+  - Takes the created digital workbook link, and sends the to attendees before the Bootcamp
   - Stages the Marketing Cluster (or HPOC) with staging script
 
 Account/Partner Based Bootcamp
@@ -138,6 +138,6 @@ SE Handles:
 
   - Reserves HPOC if Marketing cluster is unavailable
   - Creates Event Specific Bootcamp from template in the Hands on Workshop platform
-  - Takes the created digital workbook link, and sends the to attendees before the bootcamp
+  - Takes the created digital workbook link, and sends the to attendees before the Bootcamp
   - Stages the Marketing Cluster (or HPOC) with staging script
 
