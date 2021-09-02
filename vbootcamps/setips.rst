@@ -24,6 +24,8 @@ Send personalized emails to attendees - The day before the event send out person
 
 `Day before mail merge <https://github.com/jchr1st/workshop_howto/blob/master/vbootcamps/images/Day_Before_Mail_Merge.docx?raw=true>`_
 
+`Day of `
+
 Hi **[Attendee First Name]**,
 
 My name is **[SE Name]**. I am a Nutanix Sales Engineer and will be conducting tomorrow’s virtual bootcamp event. The event will start at **[EVENT TIME]**. All event and access information can be found below. 
