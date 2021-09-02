@@ -25,7 +25,7 @@ To help manage the communication flow with attendees you can create your own aut
 
   <strong><font color="purple">Please change the links to the production repo and comment out this line</font></strong>
 
-`Day before BootCamp mail merge, Word document <https://github.com/jchr1st/workshop_howto/blob/master/vbootcamps/merge/Day_Before_Mail_Merge.docx?raw=true>`_
+`Day before Bootcamp mail merge, Word document <https://github.com/jchr1st/workshop_howto/blob/master/vbootcamps/merge/Day_Before_Mail_Merge.docx?raw=true>`_
 
 `Day of Bootcamp mail merge, Word document <https://github.com/jchr1st/workshop_howto/blob/master/vbootcamps/merge/Day_Of_Mail_Merge.docx?raw=true>`_
 
