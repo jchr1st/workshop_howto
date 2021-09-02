@@ -63,8 +63,10 @@ Sincerely,
 
 An hour prior to the start of the bootcamp send out one mass email to all attendees with cluster details – Admin login and password – You don’t want to send this earlier to ensure that the cluster is in the expected state.
 
-Email 2
-^^^^^^^
+
+.. raw:: html
+
+  <strong><font color="purple">Email 2</font></strong>
 
 Greetings,
 
