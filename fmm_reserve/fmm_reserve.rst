@@ -19,7 +19,7 @@ When reserving a cluster for your Bootcamp, ensure you are creating the reservat
 
 .. figure:: images/reserver_cluster.png
 
-#. Specify "From" and "To" dates: 2 days total (day before and day of bootcamp).
+#. Specify "From" and "To" dates: 2 days total (day before and day of Bootcamp).
 #. Make sure **MKTG-PHX** is selected in the dropdown
 #. Click **Confirm**
 

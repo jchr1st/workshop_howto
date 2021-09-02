@@ -16,7 +16,7 @@ As a reminder, choose the Runbook that matches the Bootcamp you created in the p
 
   If this is for an Era Bootcamp, make sure to use and **All Flash** Cluster.
 
-#. Specify "From" and "To" dates: 2 days total (day before and day of bootcamp)
+#. Specify "From" and "To" dates: 2 days total (day before and day of Bootcamp)
 #. Select the appropriate Data Center in the dropdown
 #. Click **Confirm**
 

@@ -7,7 +7,7 @@ Plan 1-2 months ahead – Build out a virtual Bootcamp calendar with your Field 
 
     - Work with your FMM to publish and spread the event schedule to all prospects, customers and partners
 
-Ensure that you have the cluster at least 24 hours prior to the Bootcamp event - Your Field Marketing Manager will reserve a Marketing cluster if available.
+Ensure that you have the cluster at least 24 hours prior to the Bootcamp event - Your FMM will reserve a Marketing cluster if available.
 
 Prep before - Familiarize yourself with Zoom, whiteboarding tools, and dry run with the group of SEs before the event.
 
@@ -24,6 +24,7 @@ To help manage the communication flow with attendees you can create your own aut
 .. raw:: html
 
   <strong><font color="purple">Please change the links to the production repo and comment out this line</font></strong>
+
 
 `Day before Bootcamp mail merge, Word document <https://github.com/jchr1st/workshop_howto/blob/master/vbootcamps/merge/Day_Before_Mail_Merge.docx?raw=true>`_
 

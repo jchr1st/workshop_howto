@@ -13,7 +13,7 @@ Leverage a Whiteboard (physical or virtual) - If you have a whiteboard at home, 
 
         - iPad with Pencil
         - MS Surface with Surface Pen
-        - SEs can order a Wacom Tablet from Best Buy  – this should be ordered a week or two before the event and can be used for the whiteboarding during the bootcamp:
+        - SEs can order a Wacom Tablet from Best Buy  – this should be ordered a week or two before the event and can be used for the whiteboarding during the Bootcamp:
 
             - https://www.bestbuy.com/site/wacom-intuos-wireless-graphic-tablet-small-with-3-bonus-software-included-black/6196634.p?skuId=6196634 – a small learning curve on using it
 
