@@ -22,9 +22,7 @@ Send personalized emails to attendees - The day before the event send out person
   <strong><font color="purple">Email 1</font></strong>
 
 
-.. link:: images/Day_Before_Mail_Merge.docx
-
-`Day before mail merge <https://github.com/jchr1st/workshop_howto/blob/master/vbootcamps/images/Day_Before_Mail_Merge.docx>`_
+.. link:: `Day before mail merge <https://github.com/jchr1st/workshop_howto/blob/master/vbootcamps/images/Day_Before_Mail_Merge.docx>`_
 
 Hi **[Attendee First Name]**,
 
