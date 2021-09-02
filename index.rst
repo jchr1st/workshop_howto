@@ -47,7 +47,7 @@
 Nutanix Workshops HOWTO
 -----------------------
 
-The purpose of this living document is to provide a complete reference for Sales Engineers (SEs) and Field Marketing Managers (FMMs) on how to properly run a Nutanix Bootcamp using our `reservation sytem <https://rx.corp.nutanix.com/login>`_ (RX), the Hosted POC environment, and the Nutanix Hands on Workshops platform.
+The purpose of this living document is to provide a complete reference for Sales Engineers (SEs) and Field Marketing Managers (FMMs) on how to properly run a Nutanix Bootcamp using our `reservation system <https://rx.corp.nutanix.com/login>`_ (RX), the Hosted POC environment, and the Nutanix Hands on Workshops platform.
 
 .. note::
 
